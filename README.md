@@ -54,5 +54,20 @@ Link should be a resource that mentions the discontinuation date and talks about
 ### Type
 The type should be either `app`, `service`, or `hardware` as a string.
 
+## Install and build
+
+    yarn install
+    node bin/graveyard
+    yarn dev
+
+The script in bin/graveyard.js updates graveyard.json and copy it in proper directory. 
+Jest is used to test the project and in particular to test the format of graveyard.json. To run it type:
+
+    yarn jest
+
+Then, to create the production version:
+
+    yarn build
+
 ## Thanks Where Thanks is Due
 I'd like to thank the [Wikimedia Foundation](https://wikimediafoundation.org) and [Internet Archive](https://archive.org/) for their wonderful resources, including the ability to track down broken links, home page graphics, and screenshots of services from the past. They have been invaluable tools in gathering information and content for Killed by Microsoft. If you are able, I encourage you to make a donation to these organizations for the wonderful work they do in sharing knowledge and preserving history.

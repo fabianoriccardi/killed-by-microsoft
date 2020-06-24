@@ -17,6 +17,10 @@ data.map((item) => {
   return newItem;
 });
 
+if (!fs.existsSync('public')) {
+  fs.mkdirSync('public');
+}
+
 fs.writeFile('public/graveyard.json', JSON.stringify(data), (err) => {
   const { log } = console;
   if (err) throw err;
