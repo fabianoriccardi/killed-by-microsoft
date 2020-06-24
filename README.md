@@ -1,7 +1,7 @@
 <div align="center">
   <img src="src/assets/tombstone.png" alt="tombstone" style="height: 80px; width: 80px; padding: 0 20px;">
-  <h1>Killed by Google</h1>
-  <p>A tribute and log of beloved products and services killed by Google.</p>
+  <h1>Killed by Microsoft</h1>
+  <p>A tribute and log of beloved products and services killed by Microsoft.</p>
 </div>
 
 <div align="center">
@@ -55,4 +55,4 @@ Link should be a resource that mentions the discontinuation date and talks about
 The type should be either `app`, `service`, or `hardware` as a string.
 
 ## Thanks Where Thanks is Due
-I'd like to thank the [Wikimedia Foundation](https://wikimediafoundation.org) and [Internet Archive](https://archive.org/) for their wonderful resources, including the ability to track down broken links, home page graphics, and screenshots of services from the past. They have been invaluable tools in gathering information and content for Killed by Google. If you are able, I encourage you to make a donation to these organizations for the wonderful work they do in sharing knowledge and preserving history.
+I'd like to thank the [Wikimedia Foundation](https://wikimediafoundation.org) and [Internet Archive](https://archive.org/) for their wonderful resources, including the ability to track down broken links, home page graphics, and screenshots of services from the past. They have been invaluable tools in gathering information and content for Killed by Microsoft. If you are able, I encourage you to make a donation to these organizations for the wonderful work they do in sharing knowledge and preserving history.

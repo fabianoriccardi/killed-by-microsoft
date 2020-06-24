@@ -68,34 +68,32 @@ const SocialWrapper = styled.div`
 
 export default () => (
   <>
-    <PressCoverage />
+    {/* <PressCoverage /> */}
     <FooterContainer>
       <FlexWrap>
         <FooterTitle>
           <img style={TombstoneStyle} src={Tombstone} alt="Tombstone" />
-          <Title>Killed by Google</Title>
+          <Title>Killed by Microsoft</Title>
         </FooterTitle>
         <div>
           <p>
-            Killed by Google is the Google graveyard; a free and open source
-            list of discontinued Google services, products, devices, and apps.
+            Killed by Microsoft is the Microsoft graveyard; a free and open source
+            list of discontinued Microsoft services, products, devices, and apps.
             We aim to be a source of factual information about the history
-            surrounding Google&apos;s dead projects.
+            surrounding Microsoft&apos;s dead projects.
           </p>
           <p>
             <a
-              href="https://github.com/codyogden/killedbygoogle/graphs/contributors"
+              href="https://github.com/fabiuz7/killedbymicrosoft/graphs/contributors"
               target="_blank"
               rel="noopener noreferrer"
             >
               Contributors
             </a>
             &nbsp;from around the world help compile, research, and maintain the
-            information about dying and dead Google products. You can join the
+            information about dying and dead Microsoft products. You can join the
             discussion on&nbsp;
-            <a href="https://github.com/codyogden/killedbygoogle">GitHub</a>, or
-            follow us on&nbsp;
-            <a href="https://twitter.com/killedbygoogle">Twitter</a>. A project
+            <a href="https://github.com/fabiuz7/killedbymicrosoft">GitHub</a>. This project is derived from Killed By Google
             by&nbsp;
             <a
               href="https://codyogden.com"
@@ -117,20 +115,15 @@ export default () => (
           </p>
         </div>
         <CopyNotice>
-          <a href="https://github.com/codyogden/killedbygoogle/blob/master/LICENSE">
+          <a href="https://github.com/fabiuz7/killedbymicrosoft/blob/master/LICENSE">
             &copy; 2020 Cody Ogden.
           </a>
         </CopyNotice>
         <SocialWrapper>
           <SocialLink
-            url="https://github.com/codyogden/killedbygoogle"
+            url="https://github.com/fabiuz7/killedbymicrosoft"
             altText="GitHub"
             imgSrc={GITHUB}
-          />
-          <SocialLink
-            url="https://twitter.com/killedbygoogle"
-            altText="Twitter"
-            imgSrc={TWITTER}
           />
         </SocialWrapper>
       </FlexWrap>
