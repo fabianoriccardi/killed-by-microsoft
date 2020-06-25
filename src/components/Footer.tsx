@@ -108,8 +108,8 @@ export default () => (
             Press inquiries and other assorted death threats?
             <br />
             Throw a&nbsp;
-            <a href="mailto:knife@killedbygoogle.com">
-              knife@killedbygoogle.com
+            <a href="mailto:knife@killedbymicrosoft.info">
+              knife@killedbymicrosoft.info
             </a>
             .
           </p>
