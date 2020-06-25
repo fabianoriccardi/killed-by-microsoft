@@ -12,9 +12,9 @@ import Item from './Item';
 
 const List = ({ items }) => (
   <ListContainer>
-    <ListItem>
+    {/* <ListItem>
       <script src="//cdn.carbonads.com/carbon.js?serve=CK7I653N&amp;placement=killedbygooglecom" async="" id="_carbonads_js">{}</script>
-    </ListItem>
+    </ListItem> */}
     {items.map(item => (
       <Item key={item.name} {...item} />
     ))}

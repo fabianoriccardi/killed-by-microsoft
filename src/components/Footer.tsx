@@ -93,7 +93,7 @@ export default () => (
             &nbsp;from around the world help compile, research, and maintain the
             information about dying and dead Microsoft products. You can join the
             discussion on&nbsp;
-            <a href="https://github.com/fabiuz7/killedbymicrosoft">GitHub</a>. This project is derived from Killed By Google
+            <a href="https://github.com/fabiuz7/killedbymicrosoft/issues">GitHub</a>. This project is derived from Killed By Google
             by&nbsp;
             <a
               href="https://codyogden.com"
@@ -116,7 +116,7 @@ export default () => (
         </div>
         <CopyNotice>
           <a href="https://github.com/fabiuz7/killedbymicrosoft/blob/master/LICENSE">
-            &copy; 2020 Cody Ogden.
+            &copy; 2020 Fabiano Riccardi, Cody Ogden.
           </a>
         </CopyNotice>
         <SocialWrapper>
