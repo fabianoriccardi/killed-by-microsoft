@@ -75,14 +75,6 @@
     "type": "hardware"
   },
   {
-    "dateClose": "2020-07-22",
-    "dateOpen": "2016-01-05",
-    "description": "Mixer was a Seattle-based video game live streaming platform, originally named Beam, it was renamed after acquisition by Microsoft.",
-    "link": "https://it.wikipedia.org/wiki/Mixer_(sito_web)",
-    "name": "Microsoft Mixer",
-    "type": "service"
-  },
-  {
     "dateClose": "2013-08-31",
     "dateOpen": "1998-01-01",
     "description": "Microsoft TechNet was a Microsoft web portal and web service for IT professionals, containing documentation for Microsoft products, discussion forums, an evaluation center for downloading trialware, blogs for Microsoft employees and much more.",
@@ -301,7 +293,7 @@
   {
     "dateClose": "2020-07-22",
     "dateOpen": "2016-01-05",
-    "description": "Mixer was a video game live streaming platform.",
+    "description": "Mixer was a video game live streaming platform, originally named Beam before the acquisition by Microsoft.",
     "link": "https://en.wikipedia.org/wiki/Mixer_(service)",
     "name": "Mixer",
     "type": "service"
@@ -383,5 +375,46 @@
     "link": "https://en.wikipedia.org/wiki/Wunderlist",
     "name": "Wunderlist",
     "type": "service"
+  },
+  {
+    "dateClose": "2008-04-01",
+    "dateOpen": "1991-01-01",
+    "description": "Visual Basic was a third-generation event-driven programming language known for its Component Object Model (COM) programming model.",
+    "link": "https://en.wikipedia.org/wiki/Visual_Basic",
+    "name": "Visual Basic",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-04-30",
+    "dateOpen": "1999-01-01",
+    "description": "Microsoft Excel Viewer was a freeware program for viewing and printing spreadsheet documents created by Excel.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Excel#Microsoft_Excel_Viewer",
+    "links": [
+      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack"
+    ],
+    "name": "Office Excel Viewer",
+    "type": "app"
+  },
+  {
+    "dateClose": "2017-11-30",
+    "dateOpen": "1999-03-17",
+    "description": "Microsoft Word Viewer was a freeware program for Microsoft Windows to display and print Microsoft Word documents.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Word_Viewer",
+    "links": [
+      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/word-viewer-to-be-retired-in-november-2017"
+    ],
+    "name": "Office Word Viewer",
+    "type": "app"
+  },
+  {
+    "dateClose": "2018-04-30",
+    "dateOpen": "1999-01-01",
+    "description": "PowerPoint Viewer was a free application to be used on computers without PowerPoint installed, to view, project, or print (but not create or edit) presentations.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_PowerPoint#PowerPoint_Viewer",
+    "links": [
+      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack"
+    ],
+    "name": "Office PowerPoint Viewer",
+    "type": "app"
   }
 ]
