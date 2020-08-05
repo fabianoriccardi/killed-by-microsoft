@@ -416,5 +416,38 @@
     ],
     "name": "Office PowerPoint Viewer",
     "type": "app"
+  },
+  {
+    "dateClose": "2000-04-01",
+    "dateOpen": "1999-05-26",
+    "description": "Microsoft Vizact was a program that allowed creation of interactive documents using HTML+TIME (Timed Interactive Multimedia Extensions).",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Vizact",
+    "links": [
+      "https://news.microsoft.com/1999/05/26/microsoft-announces-vizact-2000-the-newest-application-from-office-free-preview-now-available-for-download-from-the-web/"
+    ],
+    "name": "Microsoft Vizact",
+    "type": "app"
+  },
+  {
+    "dateClose": "2002-12-31",
+    "dateOpen": "2001-11-01",
+    "description": "Microsoft Data Analyzer was a program to analyze and visualize data and data trends, and was integrated with SQL Server Analysis Services.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Office_shared_tools#Data_Analyzer",
+    "links": [
+      "https://news.microsoft.com/2001/11/01/microsoft-announces-availability-of-data-analyzer/"
+    ],
+    "name": "Microsoft Data Analyzer",
+    "type": "app"
+  },
+  {
+    "dateClose": "2015-12-01",
+    "dateOpen": "2007-01-01",
+    "description": "Microsoft Forefront was a family of line-of-business security software designed to help protect computer networks, network servers and individual devices, which underlying technology was acquired from Sybari in 2005.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Forefront",
+    "links": [
+      "https://www.microsoft.com/it-it/download/details.aspx?id=23256"
+    ],
+    "name": "Microsoft Forefront",
+    "type": "app"
   }
 ]
