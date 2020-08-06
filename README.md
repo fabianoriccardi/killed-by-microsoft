@@ -77,3 +77,4 @@ Then, to create the production version:
 
 ## Thanks Where Thanks is Due
 I'd like to thank the [Wikimedia Foundation](https://wikimediafoundation.org) and [Internet Archive](https://archive.org/) for their wonderful resources, including the ability to track down broken links, home page graphics, and screenshots of services from the past. They have been invaluable tools in gathering information and content for Killed by Microsoft. If you are able, I encourage you to make a donation to these organizations for the wonderful work they do in sharing knowledge and preserving history.
+Finally, I'd like to thank Cody Odgen that created and developed the idea of a "graveyard" for the huge amount of products killed by Google  (https://github.com/codyogden/killedbygoogle), hence providing the skeleton for *Killed by Microsoft*.
