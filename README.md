@@ -23,7 +23,7 @@ To add a product, gather the following information:
 - Link (`link`) - Relevant link to the source
 - Links (`links`) - other relevant links to the source, since all the information may not be available at the same link. Actually this field is not rendered
 - Type (`type`) - one of app, service or hardware
-
+- Slug (`slug`) - (optional), specify a custom slug (an identifier SEO friendly in the form "product-name"). Used only for testing
 
 ### Description
 The description should be a single sentence describing the product. It should begin with the products name. For example, "Google Reader was an RSS/Atom feed aggregator." It will be attached to a generated sentence like "Killed about 5 years ago, Google Reader was an RSS/Atom feed aggregator."

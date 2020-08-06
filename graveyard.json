@@ -248,7 +248,8 @@
     "description": "Microsoft Reader was an app to read PDF, XPS and TIFF files by Microsoft. It was killed in favour of Edge's implementation of PDF reading ability.",
     "link": "https://www.windowslatest.com/2017/11/21/microsoft-to-discontinue-its-pdf-reader-app-in-february-2018/",
     "name": "Microsoft Reader",
-    "type": "app"
+    "type": "app",
+    "slug": "microsoft-reader-2"
   },
   {
     "dateClose": "2014-07-07",

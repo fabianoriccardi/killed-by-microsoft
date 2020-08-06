@@ -78,6 +78,11 @@ describe('graveyard', () => {
   it('names are unique', () => {
     // Add a slug to each item
     data.map((item) => {
+      if (item.slug != undefined) {
+        return;
+      }
+
+      // Create slug from product's name
       const newItem = item;
       newItem.slug = slugify(item.name, {
         lower: true,
