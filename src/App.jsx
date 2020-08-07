@@ -6,7 +6,6 @@ import PropTypes from 'prop-types';
 import './global.scss';
 
 // Major Components
-import CookieConsent from "react-cookie-consent";
 import BannerMessage from './components/BannerMessage';
 import Header from './components/Header';
 import List from './components/List';
@@ -82,14 +81,6 @@ export default class App extends Component {
             {'Learn more about what you can do to stop the spread of COVID-19 in your community.'}
           </a>
         </BannerMessage>
-        <CookieConsent
-          buttonText="Yes sure!"
-          buttonStyle={{ color: "#474747", "fontSize": "15px", background: "#4aff83", "borderRadius": "5px", height: "30px" }}
-          enableDeclineButton
-          declineButtonText="Decline"
-          declineButtonStyle={{ color: "#4e503b", "fontSize": "15px", background: "#FAFAFA", "borderRadius": "5px" }}
-          style={{ background: "#474747" }}>
-          This website uses cookies to enhance the user experience. More info <a href="https://www.cookiepolicygenerator.com/live.php?token=5gLbECV6bhgsfKJ7QAALlCzP3Z4iFF7J">here</a>.</CookieConsent>
         <Header />
         <Search search={this.searchFilter} term={term} />
         <Filter
