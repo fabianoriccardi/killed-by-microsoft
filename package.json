@@ -47,7 +47,10 @@
     "typescript": "^3.5.3",
     "webpack": "4.39.3",
     "webpack-cli": "3.3.8",
-    "webpack-dev-server": "3.8.0"
+    "webpack-dev-server": "3.8.0",
+    "ini": "^1.3.6",
+    "node-forge": "^0.10.0",
+    "node-fetch": "^2.6.1"
   },
   "dependencies": {
     "browserlist": "^1.0.1",
