@@ -450,5 +450,32 @@
     ],
     "name": "Microsoft Forefront",
     "type": "app"
+  },
+  {
+    "dateClose": "2017-02-06",
+    "dateOpen": "2008-08-20",
+    "description": "Microsoft PhotoSynth was a program that generates a three-dimensional model and a point cloud from 2D photos.",
+    "link": "https://en.wikipedia.org/wiki/Photosynth",
+    "name": "Microsoft PhotoSynth",
+    "type": "app"
+  },
+  {
+    "dateClose": "2017-01-10",
+    "dateOpen": "2008-08-25",
+    "description": "Windows Essentials (formerly Windows Live Essentials and Windows Live Installer) is a discontinued suite of freeware applications that includes email, instant messaging, photo sharing, blogging, and parental control software and it was part of Live brand.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Essentials",
+    "name": "Microsoft Essentials",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-08-09",
+    "dateOpen": "2002-01-01",
+    "description": "Windows Journal was an application to create and organize handwritten notes and drawing, included in Windows XP Tablet PC Edition as well as select editions of Windows Vista and later.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Journal",
+    "links": [
+      "https://www.anandtech.com/show/1046/3"
+    ],
+    "name": "Windows Journal",
+    "type": "app"
   }
 ]
