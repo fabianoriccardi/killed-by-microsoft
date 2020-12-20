@@ -11,9 +11,11 @@ slugify.extend({
 
 data.map((item) => {
   const newItem = item;
-  newItem.slug = slugify(item.name, {
-    lower: true,
-  });
+  if (newItem.slug === undefined) {
+    newItem.slug = slugify(item.name, {
+      lower: true,
+    });
+  }
   return newItem;
 });
 
