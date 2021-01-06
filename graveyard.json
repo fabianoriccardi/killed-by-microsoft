@@ -485,5 +485,13 @@
     "link": "https://it.wikipedia.org/wiki/Microsoft_Edge",
     "name": "Microsoft Edge (EdgeHTML)",
     "type": "app"
+  },
+  {
+    "dateClose": "2021-06-30",
+    "dateOpen": "2019-10-17",
+    "description": "Minecraft Earth was a Augmented Reality mobile game that allowed its players to collect blocks and build creations.",
+    "link": "https://www.minecraft.net/en-us/article/minecraft-earth-coming-end",
+    "name": "Minecraft Earth",
+    "type": "app"
   }
 ]
