@@ -479,6 +479,14 @@
     "type": "app"
   },
   {
+    "dateClose": "2020-11-10",
+    "dateOpen": "2016-08-02",
+    "description": "Windows 10 IoT Core was an embedded OS for smaller and lower-cost industry devices, it was also provided free of charge for use in devices like the Raspberry Pi for hobbyist use.",
+    "link": "https://docs.microsoft.com/en-us/lifecycle/products/windows-10-iot-core",
+    "name": "Windows 10 IoT Core",
+    "type": "app"
+  },
+  {
     "dateClose": "2021-03-09",
     "dateOpen": "2015-04-29",
     "description": "Microsoft Edge is a cross-platform web browser and it is the successor of Internet Explorer.",
