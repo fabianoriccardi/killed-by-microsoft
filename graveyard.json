@@ -512,5 +512,13 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_Office_Picture_Manager",
     "name": "Microsoft Office Picture Manager",
     "type": "app"
+  },
+  {
+    "dateClose": "2006-01-27",
+    "dateOpen": "1994-01-01",
+    "description": "Microsoft Visual SourceSafe (VSS) was a source control program oriented towards small software development projects, originally created by One Tree Software prior to Microsoft acquisition in 1994.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe",
+    "name": "Microsoft Visual SourceSafe",
+    "type": "app"
   }
 ]
