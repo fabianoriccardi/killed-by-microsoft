@@ -18,7 +18,7 @@ To add a product, gather the following information:
 
 - Name of Product (`name`) - the name of the product
 - Launch Date (`dateOpen`) - it should be the date of first release or at least the "beta" or when it is made avaialbe to the customer, do not confuse with the product's announcement
-- Discontinued Date (`dateClose`) - it should be the date when the product is "no longer available for purchase" or, for web-based services, when the service stops its normal functioning
+- Discontinued Date (`dateClose`) - it should be the date when the product is "no longer available for purchase" or, for web-based services, when the service stops its normal functioning. However, if it is not clear when an application was discontinued, you can use the date of the latest significant release (i.e., a release adding new features). This case is typical for old desktop applications.
 - Description (`description`) - a bried description of the product
 - Link (`link`) - Relevant link to the source
 - Links (`links`) - other relevant links to the source, since all the information may not be available at the same link. Actually this field is not rendered
