@@ -499,8 +499,18 @@
     "dateOpen": "2016-08-02",
     "description": "Windows 10 IoT Core was an embedded OS for smaller and lower-cost industry devices, it was also provided free of charge for use in devices like the Raspberry Pi for hobbyist use.",
     "link": "https://en.wikipedia.org/wiki/Windows_IoT#Core",
-    "links": ["https://docs.microsoft.com/en-us/lifecycle/products/windows-10-iot-core"],
+    "links": [
+      "https://docs.microsoft.com/en-us/lifecycle/products/windows-10-iot-core"
+    ],
     "name": "Windows 10 IoT Core",
+    "type": "app"
+  },
+  {
+    "dateClose": "2013-04-08",
+    "dateOpen": "2003-08-19",
+    "description": "Microsoft Office Picture Manager (formely Microsoft Picture Library) was a raster graphics editor included up to Office 2010 to organize and edit images.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Office_Picture_Manager",
+    "name": "Microsoft Office Picture Manager",
     "type": "app"
   }
 ]
