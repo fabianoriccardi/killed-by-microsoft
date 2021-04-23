@@ -76,11 +76,11 @@ export default class App extends Component {
     const { listOfItems, activeFilter, term, fullList } = this.state;
     return (
       <div>
-        <BannerMessage>
+        {/* <BannerMessage>
           <a href="https://www.cdc.gov/coronavirus/2019-ncov/community/index.html">
             {'Learn more about what you can do to stop the spread of COVID-19 in your community.'}
           </a>
-        </BannerMessage>
+        </BannerMessage> */}
         <Header />
         <Search search={this.searchFilter} term={term} />
         <Filter
