@@ -520,5 +520,37 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_Visual_SourceSafe",
     "name": "Microsoft Visual SourceSafe",
     "type": "app"
+  },
+  {
+    "dateClose": "2008-06-01",
+    "dateOpen": "2006-04-01",
+    "description": "Live Search Academic was a web search engine for scholarly literature that existed, part of Microsoft's Live Search services.",
+    "link": "https://en.wikipedia.org/wiki/Live_Search_Academic",
+    "name": "Live Search Academic",
+    "type": "service"
+  },
+  {
+    "dateClose": "2014-07-01",
+    "dateOpen": "2009-01-01",
+    "description": "Microsoft Academic Search was a research project and an academic search engine.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Academic_Search",
+    "name": "Microsoft Academic Search",
+    "type": "service"
+  },
+  {
+    "dateClose": "2021-12-31",
+    "dateOpen": "2016-02-22",
+    "description": "Microsoft Academic was a free public web search engine for academic publications and literature.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Academic",
+    "name": "Microsoft Academic",
+    "type": "service"
+  },
+  {
+    "dateClose": "2017-10-01",
+    "dateOpen": "2006-05-01",
+    "description": "CodePlex was a hosting platform for open-source software, offering features such as support to different SVC systems, wiki pages, statistics, and releases.",
+    "link": "https://en.wikipedia.org/wiki/CodePlex",
+    "name": "CodePlex",
+    "type": "service"
   }
 ]
