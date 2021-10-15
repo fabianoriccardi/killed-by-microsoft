@@ -552,5 +552,21 @@
     "link": "https://en.wikipedia.org/wiki/CodePlex",
     "name": "CodePlex",
     "type": "service"
+  },
+  {
+    "dateClose": "2014-01-01",
+    "dateOpen": "2008-04-17",
+    "description": "PixelSense (formerly called Microsoft Surface) was an interactive surface computing platform that allows one or more people to interact with a tabletop screen.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_PixelSense",
+    "name": "PixelSense",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2003-05-13",
+    "dateOpen": "2003-04-30",
+    "description": "iLoo was a smart portable toilet integrating the complete equipment to surf the Internet from inside and outside the cabinet.",
+    "link": "https://en.wikipedia.org/wiki/ILoo",
+    "name": "ILoo",
+    "type": "hardware"
   }
 ]
