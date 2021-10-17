@@ -6,9 +6,7 @@
 
 <div align="center">
 
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE) 
-
-
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](/LICENSE)
 
 </div>
 
@@ -26,23 +24,27 @@ To add a product, gather the following information:
 - Slug (`slug`) - (optional), specify a custom slug (an identifier SEO friendly in the form "product-name"). Used only for testing
 
 ### Description
+
 The description should be a single sentence describing the product. It should begin with the products name. For example, "Google Reader was an RSS/Atom feed aggregator." It will be attached to a generated sentence like "Killed about 5 years ago, Google Reader was an RSS/Atom feed aggregator."
 
 Please be respectful, only use past tense.
 
 ### Link
+
 Link should be a resource that mentions the discontinuation date and talks about the product. Wikipedia is perfect.
 
 ### Type
+
 The type should be either `app`, `service`, or `hardware` as a string.
 
 If you are not familiar with or do not want to use `git`, submit a [new issue](https://github.com/fabiuz/killedbymicrosoft/issues/new?template=add-an-obituary.md) requesting the change. If you are already familiar with `git`, follow these steps:
 
-1. If you haven't already, start by [forking](https://help.github.com/en/articles/fork-a-repo) this repository. 
-2. [Create a new branch](https://help.github.com/en/desktop/contributing-to-projects/creating-a-branch-for-your-work) in your fork. Name it using the product you want to add 
+1. If you haven't already, start by [forking](https://help.github.com/en/articles/fork-a-repo) this repository.
+2. [Create a new branch](https://help.github.com/en/desktop/contributing-to-projects/creating-a-branch-for-your-work) in your fork. Name it using the product you want to add
 3. Switch to that branch (should happen automatically if you've just created it) and open the `graveyard.json` file
 4. Use the information gathered above to add a JSON entry in the following format (note the alphabetical order of keys):
-```
+
+```json
   {
     "dateClose": "YYYY-MM-DD",
     "dateOpen": "YYYY-MM-DD",
@@ -55,10 +57,10 @@ If you are not familiar with or do not want to use `git`, submit a [new issue](h
     "type": "app|service|hardware"
   }
 ```
+
 5. Finally, [create a Pull Request (PR)](https://help.github.com/en/articles/creating-a-pull-request) using the newly created branch (Important: DON'T use the `master` branch for the PR). Submit it with the necessary explanations.  
 
 For code contributions outside of `graveyard.json`, check out the [Contributing Guide](.github/CONTRIBUTING.md).
-
 
 ## Install and build
 
@@ -66,7 +68,7 @@ For code contributions outside of `graveyard.json`, check out the [Contributing 
     node bin/graveyard
     yarn dev
 
-The script in bin/graveyard.js updates graveyard.json and copy it in proper directory. 
+The script in bin/graveyard.js updates graveyard.json and copy it in proper directory.
 Jest is used to test the project and in particular to test the format of graveyard.json. To run it type:
 
     yarn jest
@@ -75,6 +77,10 @@ Then, to create the production version:
 
     yarn build
 
-## Thanks Where Thanks is Due
-I'd like to thank the [Wikimedia Foundation](https://wikimediafoundation.org) and [Internet Archive](https://archive.org/) for their wonderful resources, including the ability to track down broken links, home page graphics, and screenshots of services from the past. They have been invaluable tools in gathering information and content for Killed by Microsoft. If you are able, I encourage you to make a donation to these organizations for the wonderful work they do in sharing knowledge and preserving history.
-Finally, I'd like to thank Cody Odgen that created and developed the idea of a "graveyard" for the huge amount of products killed by Google  (https://github.com/codyogden/killedbygoogle), hence providing the skeleton for *Killed by Microsoft*.
+## Acknowledgements
+
+Thanks to Cody Odgen, author and designer of the graveyard for the products [killed by Google](https://github.com/codyogden/killedbygoogle), that provides the skeleton for *Killed by Microsoft*.
+
+## Notes
+
+The practice [*Embrace, Extend, and Extinguish*](https://en.wikipedia.org/wiki/Embrace,_extend,_and_extinguish) seems to be a mantra for  Microsoft, and [many companies](https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Microsoft) fell under it. However, I would collect only extinguished products (digital or physical) on this page and not companies. So, for example, Solair, a provider of knowledge and consulting in the IoT field, is excluded.
