@@ -568,5 +568,21 @@
     "link": "https://en.wikipedia.org/wiki/ILoo",
     "name": "ILoo",
     "type": "hardware"
+  },
+  {
+    "dateClose": "2007-01-01",
+    "dateOpen": "1996-01-01",
+    "description": "Office Assistant was an intelligent user interface for Microsoft Office that assisted users by way of an interactive animated character which interfaced with the Office help content. The most famous avatar was Clippit (a.k.a. Clippy), an humanized paperclip.",
+    "link": "https://en.wikipedia.org/wiki/Office_Assistant",
+    "name": "Office Assistant",
+    "type": "software"
+  },
+  {
+    "dateClose": "2007-03-22",
+    "dateOpen": "1996-05-29",
+    "description": "Microsoft NetMeeting was VoIP and multi-point videoconferencing client and incorporated technology acquired from Data Connection Ltd and DataBeam Corporation.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_NetMeeting",
+    "name": "Microsoft NetMeeting",
+    "type": "software"
   }
 ]
