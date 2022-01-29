@@ -584,5 +584,13 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_NetMeeting",
     "name": "Microsoft NetMeeting",
     "type": "software"
+  },
+  {
+    "dateClose": "2010-05-14",
+    "dateOpen": "2007-10-01",
+    "description": "Response Point was an advanced VoIP-based telephone system targeting small businesses.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Response_Point",
+    "name": "Response Point",
+    "type": "software"
   }
 ]
