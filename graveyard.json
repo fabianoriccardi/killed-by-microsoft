@@ -548,7 +548,7 @@
   {
     "dateClose": "2017-10-01",
     "dateOpen": "2006-05-01",
-    "description": "CodePlex was a hosting platform for open-source software, offering features such as support to different SVC systems, wiki pages, statistics, and releases.",
+    "description": "CodePlex was a hosting platform for open-source software, offering features such as support to different VCS systems, wiki pages, statistics, and releases.",
     "link": "https://en.wikipedia.org/wiki/CodePlex",
     "name": "CodePlex",
     "type": "service"
