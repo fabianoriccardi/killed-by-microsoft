@@ -1,6 +1,6 @@
 ---
 name: "Add an Obituary \U0001F480"
-about: Report a dead or dying product to Killed by Google.
+about: Report a dead or dying product to Killed by Microsoft.
 
 ---
 
