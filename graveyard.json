@@ -592,5 +592,17 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_Response_Point",
     "name": "Response Point",
     "type": "software"
+  },
+  {
+    "dateClose": "1997-01-01",
+    "dateOpen": "1993-12-07",
+    "description": "Creative Writer was a word processor designed for children.",
+    "link": "https://en.wikipedia.org/wiki/Creative_Writer",
+    "links": [
+      "https://en.wikipedia.org/wiki/Creative_Writer",
+      "https://en.wikipedia.org/wiki/Creative_Writer_2"
+    ],
+    "name": "Creative Writer",
+    "type": "software"
   }
 ]
