@@ -592,5 +592,13 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_Response_Point",
     "name": "Response Point",
     "type": "software"
+  },
+  {
+    "dateClose": "2021-01-30",
+    "dateOpen": "2008-12-03",
+    "description": "Image Composite Editor was an advanced panoramic image stitcher made by the Microsoft Research division of Microsoft Corporation.",
+    "link": "https://en.wikipedia.org/wiki/Image_Composite_Editor",
+    "name": "Microsoft Image Composite Editor",
+    "type": "software"
   }
 ]
