@@ -592,5 +592,13 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_Response_Point",
     "name": "Response Point",
     "type": "software"
+  },
+  {
+    "dateClose": "2007-01-30",
+    "dateOpen": "1996-01-01",
+    "description": "DirectSound3D was an extension to DirectX to standardize real-time 3D audio, allowing games to use a single API instead of coding for each sound card manufacturer. Its deprecation in Windows Vista decimated the game audio industry (see Creative, Auzentech).",
+    "link": "https://en.wikipedia.org/wiki/DirectSound",
+    "name": "DirectSound3D",
+    "type": "service"
   }
 ]
