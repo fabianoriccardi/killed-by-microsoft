@@ -387,33 +387,36 @@
   },
   {
     "dateClose": "2018-04-30",
-    "dateOpen": "1999-01-01",
+    "dateOpen": "1997-02-27",
     "description": "Microsoft Excel Viewer was a freeware program for viewing and printing spreadsheet documents created by Excel.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Excel#Microsoft_Excel_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack"
+      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack",
+      "http://ftpmirror.your.org/pub/misc/ftp.microsoft.com/Softlib/index.txt"
     ],
     "name": "Office Excel Viewer",
     "type": "app"
   },
   {
     "dateClose": "2017-11-30",
-    "dateOpen": "1999-03-17",
+    "dateOpen": "1995-03-20",
     "description": "Microsoft Word Viewer was a freeware program for Microsoft Windows to display and print Microsoft Word documents.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Word_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/word-viewer-to-be-retired-in-november-2017"
+      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/word-viewer-to-be-retired-in-november-2017",
+      "http://ftpmirror.your.org/pub/misc/ftp.microsoft.com/Softlib/index.txt"
     ],
     "name": "Office Word Viewer",
     "type": "app"
   },
   {
     "dateClose": "2018-04-30",
-    "dateOpen": "1999-01-01",
+    "dateOpen": "1992-08-30",
     "description": "PowerPoint Viewer was a free application to be used on computers without PowerPoint installed, to view, project, or print (but not create or edit) presentations.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_PowerPoint#PowerPoint_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack"
+      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack",
+      "https://en.wikipedia.org/wiki/Microsoft_Office_3.0"
     ],
     "name": "Office PowerPoint Viewer",
     "type": "app"
