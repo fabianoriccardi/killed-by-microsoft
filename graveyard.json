@@ -94,7 +94,7 @@
     "dateClose": "2013-12-31",
     "dateOpen": "2007-11-04",
     "description": "Windows Home Server was intended to be a solution for homes with multiple connected PCs to offer file sharing, automated backups, print server, and remote access.",
-    "link": "https://it.wikipedia.org/wiki/Windows_Home_Server",
+    "link": "https://en.wikipedia.org/wiki/Windows_Home_Server",
     "name": "Windows Home Server",
     "type": "service"
   },
@@ -311,7 +311,7 @@
     "dateClose": "2021-10-12",
     "dateOpen": "2005-09-05",
     "description": "Microsoft Silverlight (or simply Silverlight) was an application framework for writing and running rich Internet applications, similar to Adobe Flash.",
-    "link": "https://it.wikipedia.org/wiki/Silverlight",
+    "link": "https://en.wikipedia.org/wiki/Silverlight",
     "name": "Silverlight",
     "type": "service"
   },
