@@ -592,5 +592,29 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_Response_Point",
     "name": "Response Point",
     "type": "software"
+  },
+  {
+    "dateClose": "2008-04-21",
+    "dateOpen": "1996-07-13",
+    "description": "Outlook Express, formerly known as Microsoft Internet Mail and News, was an email and news client included with Internet Explorer versions 3.0 through to 6.0.",
+    "link": "https://en.wikipedia.org/wiki/Outlook_Express",
+    "name": "Outlook Express",
+    "type": "software"
+  },
+  {
+    "dateClose": "2019-01-01",
+    "dateOpen": "2015-10-02",
+    "description": "Home Team was a social app for Windows Phone that helps people find the best local service providers by sharing recommendations with friends and coworkers.",
+    "link": "https://mspoweruser.com/microsoft-home-team-app-makes-it-easy-to-find-trusted-local-service-providers/",
+    "name": "Home Team",
+    "type": "software"
+  },
+  {
+    "dateClose": "2007-10-16",
+    "dateOpen": "1995-06-01",
+    "description": "Visual FoxPro was data-centric procedural programming language with object-oriented programming (OOP) features.",
+    "link": "https://en.wikipedia.org/wiki/Visual_FoxPro",
+    "name": "Visual FoxPro",
+    "type": "software"
   }
 ]
