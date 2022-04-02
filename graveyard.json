@@ -616,5 +616,21 @@
     "link": "https://en.wikipedia.org/wiki/Visual_FoxPro",
     "name": "Visual FoxPro",
     "type": "software"
+  },
+  {
+    "dateClose": "2019-11-20",
+    "dateOpen": "2007-10-04",
+    "description": "HealthVault was a web-based personal health record to store and maintain health and fitness information.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_HealthVault",
+    "name": "HealthVault",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-11-20",
+    "dateOpen": "2007-10-04",
+    "description": "HealthVault Connection Center was a client-side tool to allow users to upload data from personal health devices to the HealthVault service.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_HealthVault",
+    "name": "HealthVault Connection Center",
+    "type": "app"
   }
 ]
