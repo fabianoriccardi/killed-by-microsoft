@@ -391,7 +391,7 @@
     "description": "Microsoft Excel Viewer was a freeware program for viewing and printing spreadsheet documents created by Excel.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Excel#Microsoft_Excel_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack",
+      "https://docs.microsoft.com/en-us/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack",
       "http://ftpmirror.your.org/pub/misc/ftp.microsoft.com/Softlib/index.txt"
     ],
     "name": "Office Excel Viewer",
@@ -403,7 +403,7 @@
     "description": "Microsoft Word Viewer was a freeware program for Microsoft Windows to display and print Microsoft Word documents.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Word_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/word-viewer-to-be-retired-in-november-2017",
+      "https://docs.microsoft.com/en-us/archive/blogs/office_sustained_engineering/word-viewer-to-be-retired-in-november-2017",
       "http://ftpmirror.your.org/pub/misc/ftp.microsoft.com/Softlib/index.txt"
     ],
     "name": "Office Word Viewer",
@@ -415,7 +415,7 @@
     "description": "PowerPoint Viewer was a free application to be used on computers without PowerPoint installed, to view, project, or print (but not create or edit) presentations.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_PowerPoint#PowerPoint_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack",
+      "https://docs.microsoft.com/en-us/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack",
       "https://en.wikipedia.org/wiki/Microsoft_Office_3.0"
     ],
     "name": "Office PowerPoint Viewer",
@@ -449,7 +449,7 @@
     "description": "Microsoft Forefront was a family of line-of-business security software designed to help protect computer networks, network servers and individual devices, which underlying technology was acquired from Sybari in 2005.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Forefront",
     "links": [
-      "https://www.microsoft.com/it-it/download/details.aspx?id=23256"
+      "https://www.microsoft.com/en-us/download/details.aspx?id=23256"
     ],
     "name": "Microsoft Forefront",
     "type": "app"
