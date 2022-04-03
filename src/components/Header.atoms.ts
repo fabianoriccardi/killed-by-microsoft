@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-const LogoSize = 50;
+const LogoSize = 55;
 export const Logo = styled.img`
   display: block;
   width: ${LogoSize}px;
@@ -14,6 +14,7 @@ export const Logo = styled.img`
 
 export const Masthead = styled.header`
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   padding-top: 30px;
@@ -26,6 +27,7 @@ export const Title = styled.h1`
   text-align: center;
   margin: 0;
   font-size: 2.5em;
+  padding: 10px 0;
   /* @media screen and ( max-width: 600px ) {
     font-size: 1.75em;
   } */
