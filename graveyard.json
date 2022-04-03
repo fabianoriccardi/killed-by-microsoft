@@ -40,7 +40,7 @@
       "https://support.microsoft.com/en-us/help/4340298/support-options-for-nokia-lumia-and-feature-phone-devices"
     ],
     "name": "Windows Phone",
-    "type": "service"
+    "type": "os"
   },
   {
     "dateClose": "2010-02-02",
@@ -48,7 +48,7 @@
     "description": "Windows Mobile was a family of mobile operating systems developed by Microsoft for smartphones and Pocket PCs.",
     "link": "https://en.wikipedia.org/wiki/Windows_Mobile",
     "name": "Windows Mobile",
-    "type": "service"
+    "type": "os"
   },
   {
     "dateClose": "2011-08-01",
@@ -96,7 +96,7 @@
     "description": "Windows Home Server was intended to be a solution for homes with multiple connected PCs to offer file sharing, automated backups, print server, and remote access.",
     "link": "https://en.wikipedia.org/wiki/Windows_Home_Server",
     "name": "Windows Home Server",
-    "type": "service"
+    "type": "os"
   },
   {
     "dateClose": "2009-10-01",
@@ -289,7 +289,7 @@
     "description": "Windows Movie Maker (later rebranded as Windows Live Movie Maker) was a video editing software program for home users.",
     "link": "https://en.wikipedia.org/wiki/Windows_Movie_Maker",
     "name": "Windows Movie Maker",
-    "type": "service"
+    "type": "app"
   },
   {
     "dateClose": "2020-07-22",
@@ -375,7 +375,7 @@
     "description": "Wunderlist was a cloud-based task management application, acquired by Microsoft in June 1, 2015.",
     "link": "https://en.wikipedia.org/wiki/Wunderlist",
     "name": "Wunderlist",
-    "type": "service"
+    "type": "app"
   },
   {
     "dateClose": "2008-04-01",
@@ -503,7 +503,7 @@
       "https://docs.microsoft.com/en-us/lifecycle/products/windows-10-iot-core"
     ],
     "name": "Windows 10 IoT Core",
-    "type": "app"
+    "type": "os"
   },
   {
     "dateClose": "2013-04-08",
@@ -575,7 +575,7 @@
     "description": "Office Assistant was an intelligent user interface for Microsoft Office that assisted users by way of an interactive animated character which interfaced with the Office help content. The most famous avatar was Clippit (a.k.a. Clippy), an humanized paperclip.",
     "link": "https://en.wikipedia.org/wiki/Office_Assistant",
     "name": "Office Assistant",
-    "type": "software"
+    "type": "service"
   },
   {
     "dateClose": "2007-03-22",
@@ -583,7 +583,7 @@
     "description": "Microsoft NetMeeting was VoIP and multi-point videoconferencing client and incorporated technology acquired from Data Connection Ltd and DataBeam Corporation.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_NetMeeting",
     "name": "Microsoft NetMeeting",
-    "type": "software"
+    "type": "app"
   },
   {
     "dateClose": "2010-05-14",
@@ -591,7 +591,7 @@
     "description": "Response Point was an advanced VoIP-based telephone system targeting small businesses.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Response_Point",
     "name": "Response Point",
-    "type": "software"
+    "type": "service"
   },
   {
     "dateClose": "2008-04-21",
@@ -599,7 +599,7 @@
     "description": "Outlook Express, formerly known as Microsoft Internet Mail and News, was an email and news client included with Internet Explorer versions 3.0 through to 6.0.",
     "link": "https://en.wikipedia.org/wiki/Outlook_Express",
     "name": "Outlook Express",
-    "type": "software"
+    "type": "app"
   },
   {
     "dateClose": "2019-01-01",
@@ -607,7 +607,7 @@
     "description": "Home Team was a social app for Windows Phone that helps people find the best local service providers by sharing recommendations with friends and coworkers.",
     "link": "https://mspoweruser.com/microsoft-home-team-app-makes-it-easy-to-find-trusted-local-service-providers/",
     "name": "Home Team",
-    "type": "software"
+    "type": "app"
   },
   {
     "dateClose": "2007-10-16",
@@ -615,7 +615,7 @@
     "description": "Visual FoxPro was data-centric procedural programming language with object-oriented programming (OOP) features.",
     "link": "https://en.wikipedia.org/wiki/Visual_FoxPro",
     "name": "Visual FoxPro",
-    "type": "software"
+    "type": "app"
   },
   {
     "dateClose": "2019-11-20",

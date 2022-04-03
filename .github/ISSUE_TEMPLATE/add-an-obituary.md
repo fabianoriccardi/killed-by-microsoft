@@ -12,5 +12,5 @@ about: Report a dead or dying product to Killed by Microsoft.
 
 **When was the product discontinued? Provide a specific date, if possible.**
 
-**What type of product was it? App, Service, or Hardware?**
+**What type of product was it? App, Service, OS, or Hardware?**
 

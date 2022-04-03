@@ -71,6 +71,7 @@
   },
   "scripts": {
     "build": "yarn webpack --mode=production && node bin/graveyard",
+    "build-graveyard": "node bin/graveyard",
     "dev": "webpack-dev-server --config ./webpack.config.js --mode=development",
     "lint": "eslint \"src/**/*.{jsx,js}\" && eslint graveyard.json",
     "test": "yarn lint && jest",
