@@ -7,12 +7,11 @@ export const FilterList = styled.ul`
   justify-content: center;
   list-style-type: none;
   margin: 0;
-  padding: 0 0 15px 0;
+  padding: 5px 0 15px 0;
   @media screen and (min-width: 700px) {
     li:not(:first-of-type):before {
-      content: ' - ';
+      content: '-';
       display: inline-block;
-      margin: 0 2px;
       padding: 0 5px;
     }
   }
@@ -21,17 +20,20 @@ export const FilterList = styled.ul`
 export const ListItem = styled.li`
   button {
     background-color: transparent;
-    border: none;
+    border: 1px black solid;
+    border-radius: 50px;
     display: inline-block;
     font-size: 1em;
-    margin: 0;
-    min-width: 40px;
-    padding: 10px 10px;
+    margin: 0 2px;
+    min-width: 50px;
+    min-height: 2.2em;
+    padding: 5px 10px;
     text-align: center;
   }
   &.active {
     button {
-      font-weight: bold;
+      background-color: #404040;
+      color: white;
     }
   }
 `;

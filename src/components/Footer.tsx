@@ -116,7 +116,7 @@ export default () => (
         </div>
         <CopyNotice>
           <a href="https://github.com/fabiuz7/killed-by-microsoft/blob/master/LICENSE">
-            &copy; 2021-2020 Fabiano Riccardi, 2020-2019 Cody Ogden.
+            &copy; 2022-2020 Fabiano Riccardi, 2020-2019 Cody Ogden.
           </a>
         </CopyNotice>
         <SocialWrapper>

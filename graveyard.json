@@ -40,7 +40,7 @@
       "https://support.microsoft.com/en-us/help/4340298/support-options-for-nokia-lumia-and-feature-phone-devices"
     ],
     "name": "Windows Phone",
-    "type": "service"
+    "type": "os"
   },
   {
     "dateClose": "2010-02-02",
@@ -48,7 +48,7 @@
     "description": "Windows Mobile was a family of mobile operating systems developed by Microsoft for smartphones and Pocket PCs.",
     "link": "https://en.wikipedia.org/wiki/Windows_Mobile",
     "name": "Windows Mobile",
-    "type": "service"
+    "type": "os"
   },
   {
     "dateClose": "2011-08-01",
@@ -94,9 +94,9 @@
     "dateClose": "2013-12-31",
     "dateOpen": "2007-11-04",
     "description": "Windows Home Server was intended to be a solution for homes with multiple connected PCs to offer file sharing, automated backups, print server, and remote access.",
-    "link": "https://it.wikipedia.org/wiki/Windows_Home_Server",
+    "link": "https://en.wikipedia.org/wiki/Windows_Home_Server",
     "name": "Windows Home Server",
-    "type": "service"
+    "type": "os"
   },
   {
     "dateClose": "2009-10-01",
@@ -206,7 +206,7 @@
     "dateClose": "2006-12-01",
     "dateOpen": "1995-11-01",
     "description": "Microsoft Office FrontPage was a WYSIWYG HTML editor and website administration tool for Windows.",
-    "link": "https://en.wikipedia.org/wiki/Microsoft_GIF_Animator",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_FrontPage",
     "name": "Microsoft Office FrontPage",
     "type": "app"
   },
@@ -289,7 +289,7 @@
     "description": "Windows Movie Maker (later rebranded as Windows Live Movie Maker) was a video editing software program for home users.",
     "link": "https://en.wikipedia.org/wiki/Windows_Movie_Maker",
     "name": "Windows Movie Maker",
-    "type": "service"
+    "type": "app"
   },
   {
     "dateClose": "2020-07-22",
@@ -311,7 +311,7 @@
     "dateClose": "2021-10-12",
     "dateOpen": "2005-09-05",
     "description": "Microsoft Silverlight (or simply Silverlight) was an application framework for writing and running rich Internet applications, similar to Adobe Flash.",
-    "link": "https://it.wikipedia.org/wiki/Silverlight",
+    "link": "https://en.wikipedia.org/wiki/Silverlight",
     "name": "Silverlight",
     "type": "service"
   },
@@ -375,7 +375,7 @@
     "description": "Wunderlist was a cloud-based task management application, acquired by Microsoft in June 1, 2015.",
     "link": "https://en.wikipedia.org/wiki/Wunderlist",
     "name": "Wunderlist",
-    "type": "service"
+    "type": "app"
   },
   {
     "dateClose": "2008-04-01",
@@ -387,33 +387,36 @@
   },
   {
     "dateClose": "2018-04-30",
-    "dateOpen": "1999-01-01",
+    "dateOpen": "1997-02-27",
     "description": "Microsoft Excel Viewer was a freeware program for viewing and printing spreadsheet documents created by Excel.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Excel#Microsoft_Excel_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack"
+      "https://docs.microsoft.com/en-us/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack",
+      "http://ftpmirror.your.org/pub/misc/ftp.microsoft.com/Softlib/index.txt"
     ],
     "name": "Office Excel Viewer",
     "type": "app"
   },
   {
     "dateClose": "2017-11-30",
-    "dateOpen": "1999-03-17",
+    "dateOpen": "1995-03-20",
     "description": "Microsoft Word Viewer was a freeware program for Microsoft Windows to display and print Microsoft Word documents.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Word_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/word-viewer-to-be-retired-in-november-2017"
+      "https://docs.microsoft.com/en-us/archive/blogs/office_sustained_engineering/word-viewer-to-be-retired-in-november-2017",
+      "http://ftpmirror.your.org/pub/misc/ftp.microsoft.com/Softlib/index.txt"
     ],
     "name": "Office Word Viewer",
     "type": "app"
   },
   {
     "dateClose": "2018-04-30",
-    "dateOpen": "1999-01-01",
+    "dateOpen": "1992-08-30",
     "description": "PowerPoint Viewer was a free application to be used on computers without PowerPoint installed, to view, project, or print (but not create or edit) presentations.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_PowerPoint#PowerPoint_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack"
+      "https://docs.microsoft.com/en-us/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack",
+      "https://en.wikipedia.org/wiki/Microsoft_Office_3.0"
     ],
     "name": "Office PowerPoint Viewer",
     "type": "app"
@@ -446,7 +449,7 @@
     "description": "Microsoft Forefront was a family of line-of-business security software designed to help protect computer networks, network servers and individual devices, which underlying technology was acquired from Sybari in 2005.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Forefront",
     "links": [
-      "https://www.microsoft.com/it-it/download/details.aspx?id=23256"
+      "https://www.microsoft.com/en-us/download/details.aspx?id=23256"
     ],
     "name": "Microsoft Forefront",
     "type": "app"
@@ -503,7 +506,7 @@
       "https://docs.microsoft.com/en-us/lifecycle/products/windows-10-iot-core"
     ],
     "name": "Windows 10 IoT Core",
-    "type": "app"
+    "type": "os"
   },
   {
     "dateClose": "2013-04-08",
@@ -548,7 +551,7 @@
   {
     "dateClose": "2017-10-01",
     "dateOpen": "2006-05-01",
-    "description": "CodePlex was a hosting platform for open-source software, offering features such as support to different SVC systems, wiki pages, statistics, and releases.",
+    "description": "CodePlex was a hosting platform for open-source software, offering features such as support to different VCS systems, wiki pages, statistics, and releases.",
     "link": "https://en.wikipedia.org/wiki/CodePlex",
     "name": "CodePlex",
     "type": "service"
@@ -575,7 +578,7 @@
     "description": "Office Assistant was an intelligent user interface for Microsoft Office that assisted users by way of an interactive animated character which interfaced with the Office help content. The most famous avatar was Clippit (a.k.a. Clippy), an humanized paperclip.",
     "link": "https://en.wikipedia.org/wiki/Office_Assistant",
     "name": "Office Assistant",
-    "type": "software"
+    "type": "service"
   },
   {
     "dateClose": "2007-03-22",
@@ -583,7 +586,7 @@
     "description": "Microsoft NetMeeting was VoIP and multi-point videoconferencing client and incorporated technology acquired from Data Connection Ltd and DataBeam Corporation.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_NetMeeting",
     "name": "Microsoft NetMeeting",
-    "type": "software"
+    "type": "app"
   },
   {
     "dateClose": "2010-05-14",
@@ -604,5 +607,46 @@
     ],
     "name": "Creative Writer",
     "type": "software"
+    "type": "service"
+  },
+  {
+    "dateClose": "2008-04-21",
+    "dateOpen": "1996-07-13",
+    "description": "Outlook Express, formerly known as Microsoft Internet Mail and News, was an email and news client included with Internet Explorer versions 3.0 through to 6.0.",
+    "link": "https://en.wikipedia.org/wiki/Outlook_Express",
+    "name": "Outlook Express",
+    "type": "app"
+  },
+  {
+    "dateClose": "2019-01-01",
+    "dateOpen": "2015-10-02",
+    "description": "Home Team was a social app for Windows Phone that helps people find the best local service providers by sharing recommendations with friends and coworkers.",
+    "link": "https://mspoweruser.com/microsoft-home-team-app-makes-it-easy-to-find-trusted-local-service-providers/",
+    "name": "Home Team",
+    "type": "app"
+  },
+  {
+    "dateClose": "2007-10-16",
+    "dateOpen": "1995-06-01",
+    "description": "Visual FoxPro was data-centric procedural programming language with object-oriented programming (OOP) features.",
+    "link": "https://en.wikipedia.org/wiki/Visual_FoxPro",
+    "name": "Visual FoxPro",
+    "type": "app"
+  },
+  {
+    "dateClose": "2019-11-20",
+    "dateOpen": "2007-10-04",
+    "description": "HealthVault was a web-based personal health record to store and maintain health and fitness information.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_HealthVault",
+    "name": "HealthVault",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-11-20",
+    "dateOpen": "2007-10-04",
+    "description": "HealthVault Connection Center was a client-side tool to allow users to upload data from personal health devices to the HealthVault service.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_HealthVault",
+    "name": "HealthVault Connection Center",
+    "type": "app"
   }
 ]
