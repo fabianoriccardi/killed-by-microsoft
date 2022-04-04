@@ -594,7 +594,7 @@
     "description": "Response Point was an advanced VoIP-based telephone system targeting small businesses.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Response_Point",
     "name": "Response Point",
-    "type": "software"
+    "type": "service"
   },
   {
     "dateClose": "1997-01-01",
@@ -606,7 +606,7 @@
       "https://en.wikipedia.org/wiki/Creative_Writer_2"
     ],
     "name": "Creative Writer",
-    "type": "software"
+    "type": "app"
   },
   {
     "dateClose": "2008-04-21",
