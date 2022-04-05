@@ -484,8 +484,8 @@
   {
     "dateClose": "2021-03-09",
     "dateOpen": "2015-04-29",
-    "description": "Microsoft Edge is a cross-platform web browser and it is the successor of Internet Explorer.",
-    "link": "https://en.wikipedia.org/wiki/Microsoft_Edge",
+    "description": "Microsoft Edge is a web browser and it is the successor of Internet Explorer.",
+    "link": "https://en.wikipedia.org/wiki/EdgeHTML",
     "name": "Microsoft Edge (EdgeHTML)",
     "type": "app"
   },
