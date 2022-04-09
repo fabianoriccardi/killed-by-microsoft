@@ -642,7 +642,7 @@
   {
     "dateClose": "2010-04-22",
     "dateOpen": "2006-12-01",
-    "description": "Windows MultiPoint Mouse is a technology that enables the use of multiple pointing devices on the same computer.",
+    "description": "Windows MultiPoint Mouse was a technology that enables the use of multiple pointing devices on the same computer.",
     "link": "https://en.wikipedia.org/wiki/Windows_Multipoint_Mouse",
     "links": "https://web.archive.org/web/20071117163139/http://blogs.msdn.com/multipoint/default.aspx",
     "name": "Windows MultiPoint Mouse",
@@ -658,5 +658,13 @@
     ],
     "name": "Windows MultiPoint Server",
     "type": "os"
+  },
+  {
+    "dateClose": "1997-01-01",
+    "dateOpen": "1996-01-01",
+    "description": "Microsoft GIF Animator was a computer software program to create simple animated GIFs.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_GIF_Animator",
+    "name": "Microsoft GIF Animator",
+    "type": "app"
   }
 ]
