@@ -575,7 +575,7 @@
   {
     "dateClose": "2007-01-01",
     "dateOpen": "1996-01-01",
-    "description": "Office Assistant was an intelligent user interface for Microsoft Office that assisted users by way of an interactive animated character which interfaced with the Office help content. The most famous avatar was Clippit (a.k.a. Clippy), an humanized paperclip.",
+    "description": "Office Assistant was an intelligent user interface for Microsoft Office that assisted users by way of an interactive animated character which interfaced with the Office help content. The most famous avatar was Clippit (a.k.a. Clippy), a humanized paperclip.",
     "link": "https://en.wikipedia.org/wiki/Office_Assistant",
     "name": "Office Assistant",
     "type": "service"
@@ -635,5 +635,25 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_HealthVault",
     "name": "HealthVault Connection Center",
     "type": "app"
+  },
+  {
+    "dateClose": "2010-04-22",
+    "dateOpen": "2006-12-01",
+    "description": "Windows MultiPoint Mouse is a technology that enables the use of multiple pointing devices on the same computer.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Multipoint_Mouse",
+    "links": "https://web.archive.org/web/20071117163139/http://blogs.msdn.com/multipoint/default.aspx",
+    "name": "Windows MultiPoint Mouse",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-10-09",
+    "dateOpen": "2010-05-13",
+    "description": "Windows MultiPoint Server was an operating system based on Microsoft Windows Server using Remote Desktop Services technology to host multiple simultaneous independent computing stations or terminals connected to a single computer (multiseat computing).",
+    "link": "https://en.wikipedia.org/wiki/Windows_MultiPoint_Server",
+    "links": [
+      "https://endoflife.software/operating-systems/windows/windows-multipoint-server"
+    ],
+    "name": "Windows MultiPoint Server",
+    "type": "os"
   }
 ]
