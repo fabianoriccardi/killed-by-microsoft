@@ -677,5 +677,13 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_GIF_Animator",
     "name": "Microsoft GIF Animator",
     "type": "app"
+  },
+  {
+    "dateClose": "2021-01-30",
+    "dateOpen": "2008-12-03",
+    "description": "Image Composite Editor was an advanced panoramic image stitcher made by the Microsoft Research division.",
+    "link": "https://en.wikipedia.org/wiki/Image_Composite_Editor",
+    "name": "Microsoft Image Composite Editor",
+    "type": "software"
   }
 ]
