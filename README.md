@@ -20,7 +20,7 @@ To add a product, gather the following information:
 - Description (`description`) - a bried description of the product
 - Link (`link`) - Relevant link to the source
 - Links (`links`) - other relevant links to the source, since all the information may not be available at the same link. Actually this field is not rendered
-- Type (`type`) - one of app, service or hardware
+- Type (`type`) - the type of product (see below)
 - Slug (`slug`) - (optional), specify a custom slug (an identifier SEO friendly in the form "product-name"). Used only for testing
 
 ### Description
@@ -35,7 +35,12 @@ Link should be a resource that mentions the discontinuation date and talks about
 
 ### Type
 
-The type should be either `app`, `service`, or `hardware` as a string.
+The type of product must be either: 
+
+- `app`: software installable on an OS (i.e. Office) or a specific functionality of an app (i.e. a plugin, such as Clippy for Office)
+- `service`: web-based services (i.e. TechNet) or mixture of hardware and/or software which concur to provide value to the user
+- `os`: operative systems (i.e. Windows Mobile)
+- `hardware`: a physical object or a family (i.e. Lumia)
 
 If you are not familiar with or do not want to use `git`, submit a [new issue](https://github.com/fabiuz/killedbymicrosoft/issues/new?template=add-an-obituary.md) requesting the change. If you are already familiar with `git`, follow these steps:
 
@@ -54,7 +59,7 @@ If you are not familiar with or do not want to use `git`, submit a [new issue](h
       "https://any.link-to-a.source/will/work-and-wikipedia-is-cool"
     ]
     "name": "[Product Name]",
-    "type": "app|service|hardware"
+    "type": "app|service|os|hardware"
   }
 ```
 

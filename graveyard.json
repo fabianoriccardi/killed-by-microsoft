@@ -40,7 +40,7 @@
       "https://support.microsoft.com/en-us/help/4340298/support-options-for-nokia-lumia-and-feature-phone-devices"
     ],
     "name": "Windows Phone",
-    "type": "service"
+    "type": "os"
   },
   {
     "dateClose": "2010-02-02",
@@ -48,7 +48,7 @@
     "description": "Windows Mobile was a family of mobile operating systems developed by Microsoft for smartphones and Pocket PCs.",
     "link": "https://en.wikipedia.org/wiki/Windows_Mobile",
     "name": "Windows Mobile",
-    "type": "service"
+    "type": "os"
   },
   {
     "dateClose": "2011-08-01",
@@ -96,7 +96,7 @@
     "description": "Windows Home Server was intended to be a solution for homes with multiple connected PCs to offer file sharing, automated backups, print server, and remote access.",
     "link": "https://en.wikipedia.org/wiki/Windows_Home_Server",
     "name": "Windows Home Server",
-    "type": "service"
+    "type": "os"
   },
   {
     "dateClose": "2009-10-01",
@@ -289,7 +289,7 @@
     "description": "Windows Movie Maker (later rebranded as Windows Live Movie Maker) was a video editing software program for home users.",
     "link": "https://en.wikipedia.org/wiki/Windows_Movie_Maker",
     "name": "Windows Movie Maker",
-    "type": "service"
+    "type": "app"
   },
   {
     "dateClose": "2020-07-22",
@@ -375,7 +375,7 @@
     "description": "Wunderlist was a cloud-based task management application, acquired by Microsoft in June 1, 2015.",
     "link": "https://en.wikipedia.org/wiki/Wunderlist",
     "name": "Wunderlist",
-    "type": "service"
+    "type": "app"
   },
   {
     "dateClose": "2008-04-01",
@@ -387,33 +387,36 @@
   },
   {
     "dateClose": "2018-04-30",
-    "dateOpen": "1999-01-01",
+    "dateOpen": "1997-02-27",
     "description": "Microsoft Excel Viewer was a freeware program for viewing and printing spreadsheet documents created by Excel.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Excel#Microsoft_Excel_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack"
+      "https://docs.microsoft.com/en-us/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack",
+      "http://ftpmirror.your.org/pub/misc/ftp.microsoft.com/Softlib/index.txt"
     ],
     "name": "Office Excel Viewer",
     "type": "app"
   },
   {
     "dateClose": "2017-11-30",
-    "dateOpen": "1999-03-17",
+    "dateOpen": "1995-03-20",
     "description": "Microsoft Word Viewer was a freeware program for Microsoft Windows to display and print Microsoft Word documents.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Word_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/word-viewer-to-be-retired-in-november-2017"
+      "https://docs.microsoft.com/en-us/archive/blogs/office_sustained_engineering/word-viewer-to-be-retired-in-november-2017",
+      "http://ftpmirror.your.org/pub/misc/ftp.microsoft.com/Softlib/index.txt"
     ],
     "name": "Office Word Viewer",
     "type": "app"
   },
   {
     "dateClose": "2018-04-30",
-    "dateOpen": "1999-01-01",
+    "dateOpen": "1992-08-30",
     "description": "PowerPoint Viewer was a free application to be used on computers without PowerPoint installed, to view, project, or print (but not create or edit) presentations.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_PowerPoint#PowerPoint_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack"
+      "https://docs.microsoft.com/en-us/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack",
+      "https://en.wikipedia.org/wiki/Microsoft_Office_3.0"
     ],
     "name": "Office PowerPoint Viewer",
     "type": "app"
@@ -446,7 +449,7 @@
     "description": "Microsoft Forefront was a family of line-of-business security software designed to help protect computer networks, network servers and individual devices, which underlying technology was acquired from Sybari in 2005.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Forefront",
     "links": [
-      "https://www.microsoft.com/it-it/download/details.aspx?id=23256"
+      "https://www.microsoft.com/en-us/download/details.aspx?id=23256"
     ],
     "name": "Microsoft Forefront",
     "type": "app"
@@ -481,8 +484,8 @@
   {
     "dateClose": "2021-03-09",
     "dateOpen": "2015-04-29",
-    "description": "Microsoft Edge is a cross-platform web browser and it is the successor of Internet Explorer.",
-    "link": "https://en.wikipedia.org/wiki/Microsoft_Edge",
+    "description": "Microsoft Edge is a web browser and it is the successor of Internet Explorer.",
+    "link": "https://en.wikipedia.org/wiki/EdgeHTML",
     "name": "Microsoft Edge (EdgeHTML)",
     "type": "app"
   },
@@ -503,7 +506,7 @@
       "https://docs.microsoft.com/en-us/lifecycle/products/windows-10-iot-core"
     ],
     "name": "Windows 10 IoT Core",
-    "type": "app"
+    "type": "os"
   },
   {
     "dateClose": "2013-04-08",
@@ -572,10 +575,10 @@
   {
     "dateClose": "2007-01-01",
     "dateOpen": "1996-01-01",
-    "description": "Office Assistant was an intelligent user interface for Microsoft Office that assisted users by way of an interactive animated character which interfaced with the Office help content. The most famous avatar was Clippit (a.k.a. Clippy), an humanized paperclip.",
+    "description": "Office Assistant was an intelligent user interface for Microsoft Office that assisted users by way of an interactive animated character which interfaced with the Office help content. The most famous avatar was Clippit (a.k.a. Clippy), a humanized paperclip.",
     "link": "https://en.wikipedia.org/wiki/Office_Assistant",
     "name": "Office Assistant",
-    "type": "software"
+    "type": "service"
   },
   {
     "dateClose": "2007-03-22",
@@ -583,7 +586,7 @@
     "description": "Microsoft NetMeeting was VoIP and multi-point videoconferencing client and incorporated technology acquired from Data Connection Ltd and DataBeam Corporation.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_NetMeeting",
     "name": "Microsoft NetMeeting",
-    "type": "software"
+    "type": "app"
   },
   {
     "dateClose": "2010-05-14",
@@ -591,7 +594,18 @@
     "description": "Response Point was an advanced VoIP-based telephone system targeting small businesses.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Response_Point",
     "name": "Response Point",
-    "type": "software"
+    "type": "service"
+  },
+  {
+    "dateClose": "1997-01-01",
+    "dateOpen": "1993-12-07",
+    "description": "Creative Writer was a word processor designed for children.",
+    "link": "https://en.wikipedia.org/wiki/Creative_Writer",
+    "links": [
+      "https://en.wikipedia.org/wiki/Creative_Writer_2"
+    ],
+    "name": "Creative Writer",
+    "type": "app"
   },
   {
     "dateClose": "2008-04-21",
@@ -599,7 +613,7 @@
     "description": "Outlook Express, formerly known as Microsoft Internet Mail and News, was an email and news client included with Internet Explorer versions 3.0 through to 6.0.",
     "link": "https://en.wikipedia.org/wiki/Outlook_Express",
     "name": "Outlook Express",
-    "type": "software"
+    "type": "app"
   },
   {
     "dateClose": "2019-01-01",
@@ -607,15 +621,18 @@
     "description": "Home Team was a social app for Windows Phone that helps people find the best local service providers by sharing recommendations with friends and coworkers.",
     "link": "https://mspoweruser.com/microsoft-home-team-app-makes-it-easy-to-find-trusted-local-service-providers/",
     "name": "Home Team",
-    "type": "software"
+    "type": "app"
   },
   {
     "dateClose": "2007-10-16",
     "dateOpen": "1995-06-01",
     "description": "Visual FoxPro was data-centric procedural programming language with object-oriented programming (OOP) features.",
     "link": "https://en.wikipedia.org/wiki/Visual_FoxPro",
+    "links": [
+      "http://www.foxprohistory.org/foxprotimeline.htm"
+    ],
     "name": "Visual FoxPro",
-    "type": "software"
+    "type": "app"
   },
   {
     "dateClose": "2019-11-20",
@@ -634,9 +651,37 @@
     "type": "app"
   },
   {
+    "dateClose": "2010-04-22",
+    "dateOpen": "2006-12-01",
+    "description": "Windows MultiPoint Mouse was a technology that enables the use of multiple pointing devices on the same computer.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Multipoint_Mouse",
+    "links": "https://web.archive.org/web/20071117163139/http://blogs.msdn.com/multipoint/default.aspx",
+    "name": "Windows MultiPoint Mouse",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-10-09",
+    "dateOpen": "2010-05-13",
+    "description": "Windows MultiPoint Server was an operating system based on Microsoft Windows Server using Remote Desktop Services technology to host multiple simultaneous independent computing stations or terminals connected to a single computer (multiseat computing).",
+    "link": "https://en.wikipedia.org/wiki/Windows_MultiPoint_Server",
+    "links": [
+      "https://endoflife.software/operating-systems/windows/windows-multipoint-server"
+    ],
+    "name": "Windows MultiPoint Server",
+    "type": "os"
+  },
+  {
+    "dateClose": "1997-01-01",
+    "dateOpen": "1996-01-01",
+    "description": "Microsoft GIF Animator was a computer software program to create simple animated GIFs.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_GIF_Animator",
+    "name": "Microsoft GIF Animator",
+    "type": "app"
+  },
+  {
     "dateClose": "2021-01-30",
     "dateOpen": "2008-12-03",
-    "description": "Image Composite Editor was an advanced panoramic image stitcher made by the Microsoft Research division of Microsoft Corporation.",
+    "description": "Image Composite Editor was an advanced panoramic image stitcher made by the Microsoft Research division.",
     "link": "https://en.wikipedia.org/wiki/Image_Composite_Editor",
     "name": "Microsoft Image Composite Editor",
     "type": "software"
