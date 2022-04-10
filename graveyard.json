@@ -685,5 +685,13 @@
     "link": "https://en.wikipedia.org/wiki/Image_Composite_Editor",
     "name": "Microsoft Image Composite Editor",
     "type": "software"
+  },
+  {
+    "dateClose": "2011-01-04",
+    "dateOpen": "2004-12-01",
+    "description": "Windows Live Spaces (previously MSN Spaces) was a highly customizable blogging and social networking platform that integrated closely with MSN Messenger.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Live_Spaces",
+    "name": "Windows Live Spaces",
+    "type": "service"
   }
 ]
