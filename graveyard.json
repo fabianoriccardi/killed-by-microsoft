@@ -196,7 +196,7 @@
   },
   {
     "dateClose": "2012-12-20",
-    "dateOpen": "2006-09-16",
+    "dateOpen": "2007-04-30",
     "description": "Microsoft Expression Studio was a suite of tools for designing and building Web and Windows client applications and rich digital media content.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Expression_Studio",
     "name": "Microsoft Expression Studio",
@@ -692,6 +692,33 @@
     "description": "Windows Live Spaces (previously MSN Spaces) was a highly customizable blogging and social networking platform that integrated closely with MSN Messenger.",
     "link": "https://en.wikipedia.org/wiki/Windows_Live_Spaces",
     "name": "Windows Live Spaces",
+    "type": "service"
+  },
+  {
+    "dateClose": "2009-08-24",
+    "dateOpen": "2007-05-18",
+    "description": "Microsoft Popfly was a website that allowed users to create web pages, program snippets, and mashups using the Microsoft Silverlight rich web applications runtime.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Popfly",
+    "name": "Microsoft Popfly",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-05-03",
+    "dateOpen": "2003-11-19",
+    "description": "Microsoft InfoPath was an application for designing, distributing, filling and submitting electronic forms containing structured data.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_InfoPath",
+    "name": "Microsoft InfoPath",
+    "type": "app"
+  },
+  {
+    "dateClose": "2008-08-01",
+    "dateOpen": "2004-03-15",
+    "description": "Onfolio was an online research tool to collect data from the web and make annotations such as inking and text highlighting.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Live_Toolbar#Onfolio",
+    "links": [
+      "https://www.searchenginejournal.com/onfolio-web-tool-launches-turns-search-into-research/"
+    ],
+    "name": "Onfolio",
     "type": "service"
   }
 ]
