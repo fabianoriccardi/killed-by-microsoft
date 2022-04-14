@@ -720,5 +720,26 @@
     ],
     "name": "Onfolio",
     "type": "service"
+  },
+  {
+    "dateClose": "2019-09-01",
+    "dateOpen": "2013-11-01",
+    "description": "Office Remote was an app to control Office products such as PowerPoint, Word and Excel from an Android or a Windows Phone.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_mobile_services#Office_Remote",
+    "links": [
+      "https://web.archive.org/web/20150421030104/https://play.google.com/store/apps/details?id=com.microsoft.office.officeremote",
+      "https://web.archive.org/web/20210516221455/https://support.microsoft.com/en-us/topic/office-remote-for-pc-7e3d9342-61c7-4bc2-8bc0-fa47542d1bce",
+      "https://www.microsoft.com/en-us/p/office-remote/9wzdncrfhx5h"
+    ],
+    "name": "Office Remote",
+    "type": "app"
+  },
+  {
+    "dateClose": "2014-10-01",
+    "dateOpen": "1995-10-09",
+    "description": "SideWinder was the name given to a family of digital game controllers for PCs consisting of joysticks, driving wheels, game controllers, and voice chat devices.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_SideWinder",
+    "name": "Sidewinder",
+    "type": "hardware"
   }
 ]
