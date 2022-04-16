@@ -741,5 +741,45 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_SideWinder",
     "name": "Sidewinder",
     "type": "hardware"
+  },
+  {
+    "dateClose": "2007-01-01",
+    "dateOpen": "2004-09-04",
+    "description": "Fingerprint Reader was an USB Fingerprint reader to unlock PC and apps.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Fingerprint_Reader",
+    "name": "Microsoft Fingerprint Reader",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2004-05-01",
+    "dateOpen": "2002-09-01",
+    "description": "Microsoft Broadband Networking was a series of computer networking hardware products ranging from Wi-Fi routers to network cards.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Broadband_Networking",
+    "name": "Microsoft Broadband Networking",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2009-06-30",
+    "dateOpen": "2006-05-31",
+    "description": "Windows Live OneCare (previously Windows OneCare Live) was a computer security and performance enhancement service developed for Windows based on multi-platform RAV (Reliable Anti-virus) technology.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Live_OneCare",
+    "name": "Windows Live OneCare",
+    "type": "app"
+  },
+  {
+    "dateClose": "2012-01-01",
+    "dateOpen": "2004-01-01",
+    "description": "Smart Personal Objects Technology (SPOT) was a initiative to create intelligent and personal home appliances, consumer electronics, and other objects through new hardware capabilities and software features.",
+    "link": "https://en.wikipedia.org/wiki/Smart_Personal_Objects_Technology",
+    "name": "Smart Personal Objects Technology (SPOT)",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-09-30",
+    "dateOpen": "1996-09-18",
+    "description": "MSN TV (formerly WebTV by WebTV Networks, Inc.) was a web access product consisting of a thin client device which used a television for display and the online service that supported it.",
+    "link": "https://en.wikipedia.org/wiki/MSN_TV",
+    "name": "MSN TV",
+    "type": "service"
   }
 ]
