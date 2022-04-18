@@ -781,5 +781,27 @@
     "link": "https://en.wikipedia.org/wiki/MSN_TV",
     "name": "MSN TV",
     "type": "service"
+  },
+  {
+    "dateClose": "2000-01-01",
+    "dateOpen": "1998-01-01",
+    "description": "The Digital Sound System 80 (DSS80) was a three-piece PC audio system co-developed with Philips.",
+    "link": "https://en.wikipedia.org/wiki/Digital_Sound_System_80",
+    "links": [
+      "http://www.verycomputer.com/1_2728ec20658b7257_1.htm"
+    ],
+    "name": "Digital Sound System 80",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "1999-01-01",
+    "dateOpen": "1998-01-01",
+    "description": "The Microsoft Cordless Phone System (also known as PC Phone System MP-900) was a cordless telephone featuring personal computer integration and it was the first Microsoft's first telephone of any kind.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Cordless_Phone_System",
+    "links": [
+      "https://www.arnnet.com.au/slideshow/439534/pictures-good-bad-ugly-history-microsoft-hardware/"
+    ],
+    "name": "Microsoft Cordless Phone System",
+    "type": "hardware"
   }
 ]
