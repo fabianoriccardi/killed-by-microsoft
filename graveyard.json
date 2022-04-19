@@ -803,5 +803,16 @@
     ],
     "name": "Microsoft Cordless Phone System",
     "type": "hardware"
+  },
+  {
+    "dateClose": "2019-06-22",
+    "dateOpen": "2011-07-20",
+    "description": "TouchDevelop was an educational, touch-friendly and cross-platform app for teaching coding to kids.",
+    "link": "https://www.microsoft.com/en-us/research/project/touchdevelop/",
+    "links": [
+      "https://github.com/microsoft/TouchDevelop"
+    ],
+    "name": "TouchDevelop",
+    "type": "app"
   }
 ]
