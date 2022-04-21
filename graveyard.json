@@ -822,5 +822,21 @@
     "link": "https://en.wikipedia.org/wiki/Sunrise_Calendar",
     "name": "Sunrise Calendar",
     "type": "app"
+  },
+  {
+    "dateClose": "2006-01-01",
+    "dateOpen": "1996-09-01",
+    "description": "Microsoft Picture It! was a photo editing application designed for casual users and initially inspired to the wizard user interface concepts of Microsoft Publisher.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Picture_It!",
+    "name": "Microsoft PictureIt!",
+    "type": "app"
+  },
+  {
+    "dateClose": "2013-02-13",
+    "dateOpen": "2010-09-30",
+    "description": "Windows Live Mesh (formerly known as Windows Live FolderShare, Live Mesh, and Windows Live Sync) was a file synchronization application supporting both direct PC-to-PC and cloud-based synchronizazion and featuring Remote Desktop capability through the browser.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Live_Mesh",
+    "name": "Windows Live Mesh",
+    "type": "app"
   }
 ]
