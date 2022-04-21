@@ -814,5 +814,13 @@
     ],
     "name": "TouchDevelop",
     "type": "app"
+  },
+  {
+    "dateClose": "2016-09-13",
+    "dateOpen": "2013-02-19",
+    "description": "Sunrise Calendar was a calendar application for web, mobile and desktop, featuring live aggregation of calendars from multiple sources.",
+    "link": "https://en.wikipedia.org/wiki/Sunrise_Calendar",
+    "name": "Sunrise Calendar",
+    "type": "app"
   }
 ]
