@@ -149,7 +149,7 @@
   {
     "dateClose": "1999-03-01",
     "dateOpen": "1996-08-13",
-    "description": "Microsoft Comic Chat was a graphical IRC client.",
+    "description": "Microsoft Comic Chat (later Microsoft Chat) was a graphical IRC client.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Comic_Chat",
     "name": "Microsoft Comic Chat",
     "type": "app"
@@ -837,6 +837,50 @@
     "description": "Windows Live Mesh (formerly known as Windows Live FolderShare, Live Mesh, and Windows Live Sync) was a file synchronization application supporting both direct PC-to-PC and cloud-based synchronizazion and featuring Remote Desktop capability through the browser.",
     "link": "https://en.wikipedia.org/wiki/Windows_Live_Mesh",
     "name": "Windows Live Mesh",
+    "type": "app"
+  },
+  {
+    "dateClose": "2006-10-16",
+    "dateOpen": "1999-01-01",
+    "description": "MSN Chat was the Microsoft Network version of IRCX (Internet Relay Chat extensions), which replaced Microsoft Chat.",
+    "link": "https://en.wikipedia.org/wiki/MSN_Chat",
+    "links": [
+      "https://web.archive.org/web/20061009052049/http://groups.msn.com/Editorial/en-gb/Content/chat.htm",
+      "https://www.wintersnet.net/history.php"
+    ],
+    "name": "MSN Chat",
+    "type": "service"
+  },
+  {
+    "dateClose": "2000-01-01",
+    "dateOpen": "1993-01-01",
+    "description": "DriveSpace (initially known as DoubleSpace) was an OS service to increase the amount of data the user could store on disks by transparently compressing and decompressing data on-the-fly.",
+    "link": "https://en.wikipedia.org/wiki/DriveSpace",
+    "name": "DriveSpace",
+    "type": "service"
+  },
+  {
+    "dateClose": "2000-01-01",
+    "dateOpen": "1991-01-01",
+    "description": "QBasic was an integrated development environment and interpreter for a variety of dialects of BASIC which are based on QuickBASIC.",
+    "link": "https://en.wikipedia.org/wiki/QBasic",
+    "name": "QBasic",
+    "type": "app"
+  },
+  {
+    "dateClose": "2014-07-01",
+    "dateOpen": "2007-05-29",
+    "description": "Games for Windows – Live (GFWL) was an online gaming service used by Games for Windows–branded PC titles that enables Windows PCs to connect to Microsoft's Live service.",
+    "link": "https://en.wikipedia.org/wiki/Games_for_Windows_%E2%80%93_Live",
+    "name": "Games for Windows – Live",
+    "type": "service"
+  },
+  {
+    "dateClose": "1996-01-01",
+    "dateOpen": "1995-01-01",
+    "description": "3D Movie Maker (3DMM) was a children's computer program to make films by placing 3D characters and props into pre-rendered environments, as well as adding actions, sound effects, music, text, speech and special effects.",
+    "link": "https://en.wikipedia.org/wiki/3D_Movie_Maker",
+    "name": "3D Movie Maker",
     "type": "app"
   }
 ]
