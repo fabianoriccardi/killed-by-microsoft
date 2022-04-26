@@ -890,5 +890,13 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_Forefront_Threat_Management_Gateway",
     "name": "Microsoft Forefront Threat Management Gateway",
     "type": "app"
+  },
+  {
+    "dateClose": "2016-08-02",
+    "dateOpen": "2006-11-30",
+    "description": "Microsoft SharePoint Designer (SPD), formerly known as Microsoft Office SharePoint Designer, was an HTML editor freeware for creating or modifying Microsoft SharePoint sites, workflows and web pages.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_SharePoint_Designer",
+    "name": "Microsoft SharePoint Designer",
+    "type": "app"
   }
 ]
