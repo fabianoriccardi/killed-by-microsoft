@@ -898,5 +898,24 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_SharePoint_Designer",
     "name": "Microsoft SharePoint Designer",
     "type": "app"
+  },
+  {
+    "dateClose": "2007-05-18",
+    "dateOpen": "2002-07-01",
+    "description": "Visual J# was a programming language and development tooling which was meant to help Java developers move to the .NET ecosystem.",
+    "link": "https://en.wikipedia.org/wiki/Visual_J_Sharp",
+    "links": [
+      "https://news.microsoft.com/2002/07/01/microsoft-rounds-out-developer-languages-with-launch-of-visual-j-net/"
+    ],
+    "name": "Visual J#",
+    "type": "app"
+  },
+  {
+    "dateClose": "2004-01-02",
+    "dateOpen": "1996-12-01",
+    "description": "Visual J++ (pronounced \"Jay Plus Plus\") was a Microsoft's implementation of Java which ran only on MSJVM, the proprietary JVM.",
+    "link": "https://en.wikipedia.org/wiki/Visual_J%2B%2B",
+    "name": "Visual J++",
+    "type": "app"
   }
 ]
