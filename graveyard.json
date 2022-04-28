@@ -917,5 +917,24 @@
     "link": "https://en.wikipedia.org/wiki/Visual_J%2B%2B",
     "name": "Visual J++",
     "type": "app"
+  },
+  {
+    "dateClose": "2016-03-24",
+    "dateOpen": "2016-03-23",
+    "description": "Tay was a chatbot that was shutdown after only 16 hours since it began to post inflammatory and offensive tweets through its Twitter account.",
+    "link": "https://en.wikipedia.org/wiki/Tay_(bot)",
+    "name": "Tay",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-03-01",
+    "dateOpen": "2016-12-06",
+    "description": "Zo was an English chatbot for the principal social networks and messaging apps, born from the experience gained from previous chatbots such as Tay and Xiaoice.",
+    "link": "https://en.wikipedia.org/wiki/Zo_(bot)",
+    "links": [
+      "https://blogs.microsoft.com/blog/2016/12/13/microsoft-ai-introducing-social-chatbot-zo-cortana-takes-new-roles/"
+    ],
+    "name": "Zo",
+    "type": "service"
   }
 ]
