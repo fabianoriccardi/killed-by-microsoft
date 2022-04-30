@@ -966,10 +966,14 @@
     "type": "app"
   },
   {
-    "dateClose": "2016-10-14",
+    "dateClose": "2017-01-10",
     "dateOpen": "2011-07-26",
     "description": "Visual Studio LightSwitch was an extension and framework specifically tailored for creating line-of-business applications built on existing .NET technologies.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Visual_Studio#Visual_Studio_LightSwitch",
+    "links": [
+      "https://adtmag.com/articles/2011/07/26/lightswitch-released-for-visual-studio.aspx",
+      "https://docs.microsoft.com/en-us/lifecycle/products/visual-studio-lightswitch-2011"
+    ],
     "name": "Visual Studio LightSwitch",
     "type": "app"
   },
