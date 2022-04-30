@@ -936,5 +936,53 @@
     ],
     "name": "Zo",
     "type": "service"
+  },
+  {
+    "dateClose": "2000-01-01",
+    "dateOpen": "1997-09-01",
+    "description": "ActiMates was a family of interactive stuffed toys which can interact with many episodes of their respective TV shows or on special ActiMates-compatible VHSes and special PC games.",
+    "link": "https://en.wikipedia.org/wiki/ActiMates",
+    "name": "ActiMates",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2010-07-22",
+    "dateOpen": "1997-01-01",
+    "description": "Microsoft Amalga Hospital Information System (HIS), formerly Hospital 2000, was a fully integrated hospital information system designed for developing and emerging markets.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Amalga#Amalga_HIS",
+    "links": [
+      "https://www.chilmarkresearch.com/microsoft-pulls-plug-on-amalga-his",
+      "https://news.microsoft.com/2008/02/13/microsoft-announces-the-amalga-family-of-health-enterprise-systems"
+    ],
+    "name": "Microsoft Amalga",
+    "type": "service"
+  },
+  {
+    "dateClose": "2003-02-01",
+    "dateOpen": "2002-11-11",
+    "description": "Kakuto Chojin: Back Alley Brutal was a fighting game for the Xbox gaming console, retired after few months because its controversial content.",
+    "link": "https://en.wikipedia.org/wiki/Kakuto_Chojin:_Back_Alley_Brutal",
+    "name": "Kakuto Chojin",
+    "type": "app"
+  },
+  {
+    "dateClose": "2016-10-14",
+    "dateOpen": "2011-07-26",
+    "description": "Visual Studio LightSwitch was an extension and framework specifically tailored for creating line-of-business applications built on existing .NET technologies.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Visual_Studio#Visual_Studio_LightSwitch",
+    "name": "Visual Studio LightSwitch",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-04-17",
+    "dateOpen": "2015-05-01",
+    "description": "Flight Arcade was a web-app clone of Flight Simulator game created as a showcase of Microsoft Edge support for modern HTML5 and JavaScript.",
+    "link": "https://www.windowscentral.com/microsoft-revisits-its-flight-simulator-series-web-based-flight-arcade-game",
+    "links": [
+      "http://web.archive.org/web/20150501000000*/http://www.flightarcade.com/",
+      "http://web.archive.org/web/20210401000000*/http://www.flightarcade.com/"
+    ],
+    "name": "Flight Arcade",
+    "type": "app"
   }
 ]
