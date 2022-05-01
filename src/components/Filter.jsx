@@ -18,7 +18,7 @@ export default class Filter extends Component {
   componentWillMount() {
     const { items } = this.props;
     // Get the counts for each time
-    const counts = ['app', 'service', 'hardware'].map(
+    const counts = ['app', 'service', 'os', 'hardware'].map(
       type => items.filter(item => item.type === type).length
     );
     // Unshift the total count for the `all` option
@@ -42,10 +42,11 @@ export default class Filter extends Component {
     return (
       <FilterList>
         {[
-          ['all', false],
-          ['apps', 'app'],
-          ['services', 'service'],
-          ['hardware', 'hardware'],
+          ['All', false],
+          ['Apps', 'app'],
+          ['Services', 'service'],
+          ['OS', 'os'],
+          ['Hardware', 'hardware'],
         ].map((type, index) => (
           <FilterItem
             active={active === index}

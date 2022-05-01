@@ -40,7 +40,7 @@
       "https://support.microsoft.com/en-us/help/4340298/support-options-for-nokia-lumia-and-feature-phone-devices"
     ],
     "name": "Windows Phone",
-    "type": "service"
+    "type": "os"
   },
   {
     "dateClose": "2010-02-02",
@@ -48,7 +48,7 @@
     "description": "Windows Mobile was a family of mobile operating systems developed by Microsoft for smartphones and Pocket PCs.",
     "link": "https://en.wikipedia.org/wiki/Windows_Mobile",
     "name": "Windows Mobile",
-    "type": "service"
+    "type": "os"
   },
   {
     "dateClose": "2011-08-01",
@@ -94,9 +94,9 @@
     "dateClose": "2013-12-31",
     "dateOpen": "2007-11-04",
     "description": "Windows Home Server was intended to be a solution for homes with multiple connected PCs to offer file sharing, automated backups, print server, and remote access.",
-    "link": "https://it.wikipedia.org/wiki/Windows_Home_Server",
+    "link": "https://en.wikipedia.org/wiki/Windows_Home_Server",
     "name": "Windows Home Server",
-    "type": "service"
+    "type": "os"
   },
   {
     "dateClose": "2009-10-01",
@@ -149,7 +149,7 @@
   {
     "dateClose": "1999-03-01",
     "dateOpen": "1996-08-13",
-    "description": "Microsoft Comic Chat was a graphical IRC client.",
+    "description": "Microsoft Comic Chat (later Microsoft Chat) was a graphical IRC client.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Comic_Chat",
     "name": "Microsoft Comic Chat",
     "type": "app"
@@ -196,7 +196,7 @@
   },
   {
     "dateClose": "2012-12-20",
-    "dateOpen": "2006-09-16",
+    "dateOpen": "2007-04-30",
     "description": "Microsoft Expression Studio was a suite of tools for designing and building Web and Windows client applications and rich digital media content.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Expression_Studio",
     "name": "Microsoft Expression Studio",
@@ -206,7 +206,7 @@
     "dateClose": "2006-12-01",
     "dateOpen": "1995-11-01",
     "description": "Microsoft Office FrontPage was a WYSIWYG HTML editor and website administration tool for Windows.",
-    "link": "https://en.wikipedia.org/wiki/Microsoft_GIF_Animator",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_FrontPage",
     "name": "Microsoft Office FrontPage",
     "type": "app"
   },
@@ -289,7 +289,7 @@
     "description": "Windows Movie Maker (later rebranded as Windows Live Movie Maker) was a video editing software program for home users.",
     "link": "https://en.wikipedia.org/wiki/Windows_Movie_Maker",
     "name": "Windows Movie Maker",
-    "type": "service"
+    "type": "app"
   },
   {
     "dateClose": "2020-07-22",
@@ -311,7 +311,7 @@
     "dateClose": "2021-10-12",
     "dateOpen": "2005-09-05",
     "description": "Microsoft Silverlight (or simply Silverlight) was an application framework for writing and running rich Internet applications, similar to Adobe Flash.",
-    "link": "https://it.wikipedia.org/wiki/Silverlight",
+    "link": "https://en.wikipedia.org/wiki/Silverlight",
     "name": "Silverlight",
     "type": "service"
   },
@@ -375,7 +375,7 @@
     "description": "Wunderlist was a cloud-based task management application, acquired by Microsoft in June 1, 2015.",
     "link": "https://en.wikipedia.org/wiki/Wunderlist",
     "name": "Wunderlist",
-    "type": "service"
+    "type": "app"
   },
   {
     "dateClose": "2008-04-01",
@@ -387,33 +387,36 @@
   },
   {
     "dateClose": "2018-04-30",
-    "dateOpen": "1999-01-01",
+    "dateOpen": "1997-02-27",
     "description": "Microsoft Excel Viewer was a freeware program for viewing and printing spreadsheet documents created by Excel.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Excel#Microsoft_Excel_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack"
+      "https://docs.microsoft.com/en-us/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack",
+      "http://ftpmirror.your.org/pub/misc/ftp.microsoft.com/Softlib/index.txt"
     ],
     "name": "Office Excel Viewer",
     "type": "app"
   },
   {
     "dateClose": "2017-11-30",
-    "dateOpen": "1999-03-17",
+    "dateOpen": "1995-03-20",
     "description": "Microsoft Word Viewer was a freeware program for Microsoft Windows to display and print Microsoft Word documents.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Word_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/word-viewer-to-be-retired-in-november-2017"
+      "https://docs.microsoft.com/en-us/archive/blogs/office_sustained_engineering/word-viewer-to-be-retired-in-november-2017",
+      "http://ftpmirror.your.org/pub/misc/ftp.microsoft.com/Softlib/index.txt"
     ],
     "name": "Office Word Viewer",
     "type": "app"
   },
   {
     "dateClose": "2018-04-30",
-    "dateOpen": "1999-01-01",
+    "dateOpen": "1992-08-30",
     "description": "PowerPoint Viewer was a free application to be used on computers without PowerPoint installed, to view, project, or print (but not create or edit) presentations.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_PowerPoint#PowerPoint_Viewer",
     "links": [
-      "https://docs.microsoft.com/it-it/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack"
+      "https://docs.microsoft.com/en-us/archive/blogs/office_sustained_engineering/end-of-support-for-the-excel-and-powerpoint-Viewers-and-the-office-compatibility-pack",
+      "https://en.wikipedia.org/wiki/Microsoft_Office_3.0"
     ],
     "name": "Office PowerPoint Viewer",
     "type": "app"
@@ -446,7 +449,7 @@
     "description": "Microsoft Forefront was a family of line-of-business security software designed to help protect computer networks, network servers and individual devices, which underlying technology was acquired from Sybari in 2005.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Forefront",
     "links": [
-      "https://www.microsoft.com/it-it/download/details.aspx?id=23256"
+      "https://www.microsoft.com/en-us/download/details.aspx?id=23256"
     ],
     "name": "Microsoft Forefront",
     "type": "app"
@@ -481,8 +484,8 @@
   {
     "dateClose": "2021-03-09",
     "dateOpen": "2015-04-29",
-    "description": "Microsoft Edge is a cross-platform web browser and it is the successor of Internet Explorer.",
-    "link": "https://en.wikipedia.org/wiki/Microsoft_Edge",
+    "description": "Microsoft Edge is a web browser and it is the successor of Internet Explorer.",
+    "link": "https://en.wikipedia.org/wiki/EdgeHTML",
     "name": "Microsoft Edge (EdgeHTML)",
     "type": "app"
   },
@@ -503,7 +506,7 @@
       "https://docs.microsoft.com/en-us/lifecycle/products/windows-10-iot-core"
     ],
     "name": "Windows 10 IoT Core",
-    "type": "app"
+    "type": "os"
   },
   {
     "dateClose": "2013-04-08",
@@ -548,7 +551,7 @@
   {
     "dateClose": "2017-10-01",
     "dateOpen": "2006-05-01",
-    "description": "CodePlex was a hosting platform for open-source software, offering features such as support to different SVC systems, wiki pages, statistics, and releases.",
+    "description": "CodePlex was a hosting platform for open-source software, offering features such as support to different VCS systems, wiki pages, statistics, and releases.",
     "link": "https://en.wikipedia.org/wiki/CodePlex",
     "name": "CodePlex",
     "type": "service"
@@ -572,10 +575,10 @@
   {
     "dateClose": "2007-01-01",
     "dateOpen": "1996-01-01",
-    "description": "Office Assistant was an intelligent user interface for Microsoft Office that assisted users by way of an interactive animated character which interfaced with the Office help content. The most famous avatar was Clippit (a.k.a. Clippy), an humanized paperclip.",
+    "description": "Office Assistant was an intelligent user interface for Microsoft Office that assisted users by way of an interactive animated character which interfaced with the Office help content. The most famous avatar was Clippit (a.k.a. Clippy), a humanized paperclip.",
     "link": "https://en.wikipedia.org/wiki/Office_Assistant",
     "name": "Office Assistant",
-    "type": "software"
+    "type": "service"
   },
   {
     "dateClose": "2007-03-22",
@@ -583,7 +586,7 @@
     "description": "Microsoft NetMeeting was VoIP and multi-point videoconferencing client and incorporated technology acquired from Data Connection Ltd and DataBeam Corporation.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_NetMeeting",
     "name": "Microsoft NetMeeting",
-    "type": "software"
+    "type": "app"
   },
   {
     "dateClose": "2010-05-14",
@@ -603,5 +606,398 @@
     ],
     "name": "DirectSound3D",
     "type": "service"
+  },
+  {
+    "dateClose": "1997-01-01",
+    "dateOpen": "1993-12-07",
+    "description": "Creative Writer was a word processor designed for children.",
+    "link": "https://en.wikipedia.org/wiki/Creative_Writer",
+    "links": [
+      "https://en.wikipedia.org/wiki/Creative_Writer_2"
+    ],
+    "name": "Creative Writer",
+    "type": "app"
+  },
+  {
+    "dateClose": "2008-04-21",
+    "dateOpen": "1996-07-13",
+    "description": "Outlook Express, formerly known as Microsoft Internet Mail and News, was an email and news client included with Internet Explorer versions 3.0 through to 6.0.",
+    "link": "https://en.wikipedia.org/wiki/Outlook_Express",
+    "name": "Outlook Express",
+    "type": "app"
+  },
+  {
+    "dateClose": "2019-01-01",
+    "dateOpen": "2015-10-02",
+    "description": "Home Team was a social app for Windows Phone that helps people find the best local service providers by sharing recommendations with friends and coworkers.",
+    "link": "https://mspoweruser.com/microsoft-home-team-app-makes-it-easy-to-find-trusted-local-service-providers/",
+    "name": "Home Team",
+    "type": "app"
+  },
+  {
+    "dateClose": "2007-10-16",
+    "dateOpen": "1995-06-01",
+    "description": "Visual FoxPro was data-centric procedural programming language with object-oriented programming (OOP) features.",
+    "link": "https://en.wikipedia.org/wiki/Visual_FoxPro",
+    "links": [
+      "http://www.foxprohistory.org/foxprotimeline.htm"
+    ],
+    "name": "Visual FoxPro",
+    "type": "app"
+  },
+  {
+    "dateClose": "2019-11-20",
+    "dateOpen": "2007-10-04",
+    "description": "HealthVault was a web-based personal health record to store and maintain health and fitness information.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_HealthVault",
+    "name": "HealthVault",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-11-20",
+    "dateOpen": "2007-10-04",
+    "description": "HealthVault Connection Center was a client-side tool to allow users to upload data from personal health devices to the HealthVault service.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_HealthVault",
+    "name": "HealthVault Connection Center",
+    "type": "app"
+  },
+  {
+    "dateClose": "2010-04-22",
+    "dateOpen": "2006-12-01",
+    "description": "Windows MultiPoint Mouse was a technology that enables the use of multiple pointing devices on the same computer.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Multipoint_Mouse",
+    "links": "https://web.archive.org/web/20071117163139/http://blogs.msdn.com/multipoint/default.aspx",
+    "name": "Windows MultiPoint Mouse",
+    "type": "service"
+  },
+  {
+    "dateClose": "2018-10-09",
+    "dateOpen": "2010-05-13",
+    "description": "Windows MultiPoint Server was an operating system based on Microsoft Windows Server using Remote Desktop Services technology to host multiple simultaneous independent computing stations or terminals connected to a single computer (multiseat computing).",
+    "link": "https://en.wikipedia.org/wiki/Windows_MultiPoint_Server",
+    "links": [
+      "https://endoflife.software/operating-systems/windows/windows-multipoint-server"
+    ],
+    "name": "Windows MultiPoint Server",
+    "type": "os"
+  },
+  {
+    "dateClose": "1997-01-01",
+    "dateOpen": "1996-01-01",
+    "description": "Microsoft GIF Animator was a computer software program to create simple animated GIFs.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_GIF_Animator",
+    "name": "Microsoft GIF Animator",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-01-30",
+    "dateOpen": "2008-12-03",
+    "description": "Image Composite Editor was an advanced panoramic image stitcher made by the Microsoft Research division.",
+    "link": "https://en.wikipedia.org/wiki/Image_Composite_Editor",
+    "name": "Microsoft Image Composite Editor",
+    "type": "app"
+  },
+  {
+    "dateClose": "2011-01-04",
+    "dateOpen": "2004-12-01",
+    "description": "Windows Live Spaces (previously MSN Spaces) was a highly customizable blogging and social networking platform that integrated closely with MSN Messenger.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Live_Spaces",
+    "name": "Windows Live Spaces",
+    "type": "service"
+  },
+  {
+    "dateClose": "2009-08-24",
+    "dateOpen": "2007-05-18",
+    "description": "Microsoft Popfly was a website that allowed users to create web pages, program snippets, and mashups using the Microsoft Silverlight rich web applications runtime.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Popfly",
+    "name": "Microsoft Popfly",
+    "type": "service"
+  },
+  {
+    "dateClose": "2016-05-03",
+    "dateOpen": "2003-11-19",
+    "description": "Microsoft InfoPath was an application for designing, distributing, filling and submitting electronic forms containing structured data.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_InfoPath",
+    "name": "Microsoft InfoPath",
+    "type": "app"
+  },
+  {
+    "dateClose": "2008-08-01",
+    "dateOpen": "2004-03-15",
+    "description": "Onfolio was an online research tool to collect data from the web and make annotations such as inking and text highlighting.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Live_Toolbar#Onfolio",
+    "links": [
+      "https://www.searchenginejournal.com/onfolio-web-tool-launches-turns-search-into-research/"
+    ],
+    "name": "Onfolio",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-09-01",
+    "dateOpen": "2013-11-01",
+    "description": "Office Remote was an app to control Office products such as PowerPoint, Word and Excel from an Android or a Windows Phone.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_mobile_services#Office_Remote",
+    "links": [
+      "https://web.archive.org/web/20150421030104/https://play.google.com/store/apps/details?id=com.microsoft.office.officeremote",
+      "https://web.archive.org/web/20210516221455/https://support.microsoft.com/en-us/topic/office-remote-for-pc-7e3d9342-61c7-4bc2-8bc0-fa47542d1bce",
+      "https://www.microsoft.com/en-us/p/office-remote/9wzdncrfhx5h"
+    ],
+    "name": "Office Remote",
+    "type": "app"
+  },
+  {
+    "dateClose": "2014-10-01",
+    "dateOpen": "1995-10-09",
+    "description": "SideWinder was the name given to a family of digital game controllers for PCs consisting of joysticks, driving wheels, game controllers, and voice chat devices.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_SideWinder",
+    "name": "Sidewinder",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2007-01-01",
+    "dateOpen": "2004-09-04",
+    "description": "Fingerprint Reader was an USB Fingerprint reader to unlock PC and apps.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Fingerprint_Reader",
+    "name": "Microsoft Fingerprint Reader",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2004-05-01",
+    "dateOpen": "2002-09-01",
+    "description": "Microsoft Broadband Networking was a series of computer networking hardware products ranging from Wi-Fi routers to network cards.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Broadband_Networking",
+    "name": "Microsoft Broadband Networking",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2009-06-30",
+    "dateOpen": "2006-05-31",
+    "description": "Windows Live OneCare (previously Windows OneCare Live) was a computer security and performance enhancement service developed for Windows based on multi-platform RAV (Reliable Anti-virus) technology.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Live_OneCare",
+    "name": "Windows Live OneCare",
+    "type": "app"
+  },
+  {
+    "dateClose": "2012-01-01",
+    "dateOpen": "2004-01-01",
+    "description": "Smart Personal Objects Technology (SPOT) was a initiative to create intelligent and personal home appliances, consumer electronics, and other objects through new hardware capabilities and software features.",
+    "link": "https://en.wikipedia.org/wiki/Smart_Personal_Objects_Technology",
+    "name": "Smart Personal Objects Technology (SPOT)",
+    "type": "service"
+  },
+  {
+    "dateClose": "2013-09-30",
+    "dateOpen": "1996-09-18",
+    "description": "MSN TV (formerly WebTV by WebTV Networks, Inc.) was a web access product consisting of a thin client device which used a television for display and the online service that supported it.",
+    "link": "https://en.wikipedia.org/wiki/MSN_TV",
+    "name": "MSN TV",
+    "type": "service"
+  },
+  {
+    "dateClose": "2000-01-01",
+    "dateOpen": "1998-01-01",
+    "description": "The Digital Sound System 80 (DSS80) was a three-piece PC audio system co-developed with Philips.",
+    "link": "https://en.wikipedia.org/wiki/Digital_Sound_System_80",
+    "links": [
+      "http://www.verycomputer.com/1_2728ec20658b7257_1.htm"
+    ],
+    "name": "Digital Sound System 80",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "1999-01-01",
+    "dateOpen": "1998-01-01",
+    "description": "The Microsoft Cordless Phone System (also known as PC Phone System MP-900) was a cordless telephone featuring personal computer integration and it was the first Microsoft's first telephone of any kind.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Cordless_Phone_System",
+    "links": [
+      "https://www.arnnet.com.au/slideshow/439534/pictures-good-bad-ugly-history-microsoft-hardware/"
+    ],
+    "name": "Microsoft Cordless Phone System",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2019-06-22",
+    "dateOpen": "2011-07-20",
+    "description": "TouchDevelop was an educational, touch-friendly and cross-platform app for teaching coding to kids.",
+    "link": "https://www.microsoft.com/en-us/research/project/touchdevelop/",
+    "links": [
+      "https://github.com/microsoft/TouchDevelop"
+    ],
+    "name": "TouchDevelop",
+    "type": "app"
+  },
+  {
+    "dateClose": "2016-09-13",
+    "dateOpen": "2013-02-19",
+    "description": "Sunrise Calendar was a calendar application for web, mobile and desktop, featuring live aggregation of calendars from multiple sources.",
+    "link": "https://en.wikipedia.org/wiki/Sunrise_Calendar",
+    "name": "Sunrise Calendar",
+    "type": "app"
+  },
+  {
+    "dateClose": "2006-01-01",
+    "dateOpen": "1996-09-01",
+    "description": "Microsoft Picture It! was a photo editing application designed for casual users and initially inspired to the wizard user interface concepts of Microsoft Publisher.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Picture_It!",
+    "name": "Microsoft PictureIt!",
+    "type": "app"
+  },
+  {
+    "dateClose": "2013-02-13",
+    "dateOpen": "2010-09-30",
+    "description": "Windows Live Mesh (formerly known as Windows Live FolderShare, Live Mesh, and Windows Live Sync) was a file synchronization application supporting both direct PC-to-PC and cloud-based synchronizazion and featuring Remote Desktop capability through the browser.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Live_Mesh",
+    "name": "Windows Live Mesh",
+    "type": "app"
+  },
+  {
+    "dateClose": "2006-10-16",
+    "dateOpen": "1999-01-01",
+    "description": "MSN Chat was the Microsoft Network version of IRCX (Internet Relay Chat extensions), which replaced Microsoft Chat.",
+    "link": "https://en.wikipedia.org/wiki/MSN_Chat",
+    "links": [
+      "https://web.archive.org/web/20061009052049/http://groups.msn.com/Editorial/en-gb/Content/chat.htm",
+      "https://www.wintersnet.net/history.php"
+    ],
+    "name": "MSN Chat",
+    "type": "service"
+  },
+  {
+    "dateClose": "2000-01-01",
+    "dateOpen": "1993-01-01",
+    "description": "DriveSpace (initially known as DoubleSpace) was an OS service to increase the amount of data the user could store on disks by transparently compressing and decompressing data on-the-fly.",
+    "link": "https://en.wikipedia.org/wiki/DriveSpace",
+    "name": "DriveSpace",
+    "type": "service"
+  },
+  {
+    "dateClose": "2000-01-01",
+    "dateOpen": "1991-01-01",
+    "description": "QBasic was an integrated development environment and interpreter for a variety of dialects of BASIC which are based on QuickBASIC.",
+    "link": "https://en.wikipedia.org/wiki/QBasic",
+    "name": "QBasic",
+    "type": "app"
+  },
+  {
+    "dateClose": "2014-07-01",
+    "dateOpen": "2007-05-29",
+    "description": "Games for Windows – Live (GFWL) was an online gaming service used by Games for Windows–branded PC titles that enables Windows PCs to connect to Microsoft's Live service.",
+    "link": "https://en.wikipedia.org/wiki/Games_for_Windows_%E2%80%93_Live",
+    "name": "Games for Windows – Live",
+    "type": "service"
+  },
+  {
+    "dateClose": "1996-01-01",
+    "dateOpen": "1995-01-01",
+    "description": "3D Movie Maker (3DMM) was a children's computer program to make films by placing 3D characters and props into pre-rendered environments, as well as adding actions, sound effects, music, text, speech and special effects.",
+    "link": "https://en.wikipedia.org/wiki/3D_Movie_Maker",
+    "name": "3D Movie Maker",
+    "type": "app"
+  },
+  {
+    "dateClose": "2015-04-14",
+    "dateOpen": "1997-01-01",
+    "description": "Microsoft Forefront Threat Management Gateway (Forefront TMG), formerly known as Microsoft Internet Security and Acceleration Server (ISA Server), and Microsoft Proxy Server, was a network router, firewall, antivirus program, VPN server and web cache for Windows Server.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Forefront_Threat_Management_Gateway",
+    "name": "Microsoft Forefront Threat Management Gateway",
+    "type": "app"
+  },
+  {
+    "dateClose": "2016-08-02",
+    "dateOpen": "2006-11-30",
+    "description": "Microsoft SharePoint Designer (SPD), formerly known as Microsoft Office SharePoint Designer, was an HTML editor freeware for creating or modifying Microsoft SharePoint sites, workflows and web pages.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_SharePoint_Designer",
+    "name": "Microsoft SharePoint Designer",
+    "type": "app"
+  },
+  {
+    "dateClose": "2007-05-18",
+    "dateOpen": "2002-07-01",
+    "description": "Visual J# was a programming language and development tooling which was meant to help Java developers move to the .NET ecosystem.",
+    "link": "https://en.wikipedia.org/wiki/Visual_J_Sharp",
+    "links": [
+      "https://news.microsoft.com/2002/07/01/microsoft-rounds-out-developer-languages-with-launch-of-visual-j-net/"
+    ],
+    "name": "Visual J#",
+    "type": "app"
+  },
+  {
+    "dateClose": "2004-01-02",
+    "dateOpen": "1996-12-01",
+    "description": "Visual J++ (pronounced \"Jay Plus Plus\") was a Microsoft's implementation of Java which ran only on MSJVM, the proprietary JVM.",
+    "link": "https://en.wikipedia.org/wiki/Visual_J%2B%2B",
+    "name": "Visual J++",
+    "type": "app"
+  },
+  {
+    "dateClose": "2016-03-24",
+    "dateOpen": "2016-03-23",
+    "description": "Tay was a chatbot that was shutdown after only 16 hours since it began to post inflammatory and offensive tweets through its Twitter account.",
+    "link": "https://en.wikipedia.org/wiki/Tay_(bot)",
+    "name": "Tay",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-03-01",
+    "dateOpen": "2016-12-06",
+    "description": "Zo was an English chatbot for the principal social networks and messaging apps, born from the experience gained from previous chatbots such as Tay and Xiaoice.",
+    "link": "https://en.wikipedia.org/wiki/Zo_(bot)",
+    "links": [
+      "https://blogs.microsoft.com/blog/2016/12/13/microsoft-ai-introducing-social-chatbot-zo-cortana-takes-new-roles/"
+    ],
+    "name": "Zo",
+    "type": "service"
+  },
+  {
+    "dateClose": "2000-01-01",
+    "dateOpen": "1997-09-01",
+    "description": "ActiMates was a family of interactive stuffed toys which can interact with many episodes of their respective TV shows or on special ActiMates-compatible VHSes and special PC games.",
+    "link": "https://en.wikipedia.org/wiki/ActiMates",
+    "name": "ActiMates",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2010-07-22",
+    "dateOpen": "1997-01-01",
+    "description": "Microsoft Amalga Hospital Information System (HIS), formerly Hospital 2000, was a fully integrated hospital information system designed for developing and emerging markets.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Amalga#Amalga_HIS",
+    "links": [
+      "https://www.chilmarkresearch.com/microsoft-pulls-plug-on-amalga-his",
+      "https://news.microsoft.com/2008/02/13/microsoft-announces-the-amalga-family-of-health-enterprise-systems"
+    ],
+    "name": "Microsoft Amalga",
+    "type": "service"
+  },
+  {
+    "dateClose": "2003-02-01",
+    "dateOpen": "2002-11-11",
+    "description": "Kakuto Chojin: Back Alley Brutal was a fighting game for the Xbox gaming console, retired after few months because its controversial content.",
+    "link": "https://en.wikipedia.org/wiki/Kakuto_Chojin:_Back_Alley_Brutal",
+    "name": "Kakuto Chojin",
+    "type": "app"
+  },
+  {
+    "dateClose": "2017-01-10",
+    "dateOpen": "2011-07-26",
+    "description": "Visual Studio LightSwitch was an extension and framework specifically tailored for creating line-of-business applications built on existing .NET technologies.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Visual_Studio#Visual_Studio_LightSwitch",
+    "links": [
+      "https://adtmag.com/articles/2011/07/26/lightswitch-released-for-visual-studio.aspx",
+      "https://docs.microsoft.com/en-us/lifecycle/products/visual-studio-lightswitch-2011"
+    ],
+    "name": "Visual Studio LightSwitch",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-04-17",
+    "dateOpen": "2015-05-01",
+    "description": "Flight Arcade was a web-app clone of Flight Simulator game created as a showcase of Microsoft Edge support for modern HTML5 and JavaScript.",
+    "link": "https://www.windowscentral.com/microsoft-revisits-its-flight-simulator-series-web-based-flight-arcade-game",
+    "links": [
+      "http://web.archive.org/web/20150501000000*/http://www.flightarcade.com/",
+      "http://web.archive.org/web/20210401000000*/http://www.flightarcade.com/"
+    ],
+    "name": "Flight Arcade",
+    "type": "app"
   }
 ]

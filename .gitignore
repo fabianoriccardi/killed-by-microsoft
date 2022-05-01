@@ -65,3 +65,6 @@ typings/
 
 # Build Files
 public/
+
+# Visual Studio Files
+/.vs

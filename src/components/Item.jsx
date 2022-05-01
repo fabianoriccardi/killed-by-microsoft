@@ -62,7 +62,18 @@ export default class Item extends Component {
     const { dateClose, dateOpen } = this.props;
     const duration = formatDistance(parseISO(dateClose), parseISO(dateOpen));
 
-    return ` It was ${duration} old.`;
+    if (this.isPast()) {
+      return ` It was ${duration} old.`;
+    }
+    return ` It will be ${duration} old.`;
+  }
+
+  getDescription() {
+    const { description } = this.props;
+    if (!this.isPast()) {
+      return description.replace("was", "is");
+    }
+    return description;
   }
 
   isPast() {
@@ -124,7 +135,7 @@ export default class Item extends Component {
           </h2>
           <Description>
             {this.timePhrase()}
-            {grave.description}
+            {this.getDescription()}
             {this.getYears()}
           </Description>
         </ContentContainer>
