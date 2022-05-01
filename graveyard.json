@@ -1,15 +1,4 @@
 [
- {
-    "dateClose": "2010-02-01",
-    "dateOpen": "2006-02-01",
-    "description": "Project Origami was the codename for an ultra-mobile PC.",
-    "link": "https://en.wikipedia.org/wiki/Ultra-mobile_PC",
-    "links": [
-      "https://web.archive.org/web/20070201103533/http://www.microsoft.com/windows/products/winfamily/umpc/default.mspx"
-    ] 
-    "name": "Project Origami",
-    "type": "hardware"
-  },
   {
     "dateClose": "2015-05-01",
     "dateOpen": "2002-01-01",
@@ -603,5 +592,16 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_Response_Point",
     "name": "Response Point",
     "type": "software"
+  },
+  {
+    "dateClose": "2010-02-01",
+    "dateOpen": "2006-02-25",
+    "description": "Project Origami was the code name for an ultra-mobile PC (also known as ultra-mobile personal computer or UMPC), a class of laptops whose specifications were defined in collaboration with Intel.",
+    "link": "https://en.wikipedia.org/wiki/Ultra-mobile_PC",
+    "links": [
+      "https://www.engadget.com/2006-02-24-microsofts-origami-project.html"
+    ],
+    "name": "Project Origami",
+    "type": "hardware"
   }
 ]
