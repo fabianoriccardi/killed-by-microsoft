@@ -597,6 +597,17 @@
     "type": "service"
   },
   {
+    "dateClose": "2010-02-01",
+    "dateOpen": "2006-02-25",
+    "description": "Project Origami was the code name for ultra-mobile PCs (also known as ultra-mobile personal computers or UMPCs), a class of laptops whose specifications were defined in collaboration with Intel.",
+    "link": "https://en.wikipedia.org/wiki/Ultra-mobile_PC",
+    "links": [
+      "https://www.engadget.com/2006-02-24-microsofts-origami-project.html"
+    ],
+    "name": "Project Origami",
+    "type": "hardware"
+  },
+  {
     "dateClose": "2007-01-30",
     "dateOpen": "1996-01-01",
     "description": "DirectSound3D was an extension to DirectSound to standardize real-time 3D audio, allowing games to use a single API instead of coding for each sound card manufacturer.",
