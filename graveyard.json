@@ -594,6 +594,17 @@
     "description": "Response Point was an advanced VoIP-based telephone system targeting small businesses.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Response_Point",
     "name": "Response Point",
+    "type": "software"
+  },
+  {
+    "dateClose": "2007-01-30",
+    "dateOpen": "1996-01-01",
+    "description": "DirectSound3D was an extension to DirectSound to standardize real-time 3D audio, allowing games to use a single API instead of coding for each sound card manufacturer.",
+    "link": "https://en.wikipedia.org/wiki/DirectSound",
+    "links": [
+      "https://techreport.com/review/13874/remixed-audio-cards-in-windows-vista/"
+    ],
+    "name": "DirectSound3D",
     "type": "service"
   },
   {
