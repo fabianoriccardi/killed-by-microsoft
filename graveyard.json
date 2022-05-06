@@ -646,12 +646,13 @@
     "type": "app"
   },
   {
-    "dateClose": "2007-10-16",
+    "dateClose": "2010-01-12",
     "dateOpen": "1995-06-01",
     "description": "Visual FoxPro was data-centric procedural programming language with object-oriented programming (OOP) features.",
     "link": "https://en.wikipedia.org/wiki/Visual_FoxPro",
     "links": [
-      "http://www.foxprohistory.org/foxprotimeline.htm"
+      "http://www.foxprohistory.org/foxprotimeline.htm",
+      "https://docs.microsoft.com/en-us/lifecycle/products/microsoft-visual-foxpro-90"
     ],
     "name": "Visual FoxPro",
     "type": "app"
