@@ -482,12 +482,12 @@
     "type": "app"
   },
   {
-    "dateClose": "2021-03-09",
-    "dateOpen": "2015-04-29",
-    "description": "Microsoft Edge is a web browser and it is the successor of Internet Explorer.",
+    "dateClose": "2020-05-27",
+    "dateOpen": "2014-11-12",
+    "description": "EdgeHTML was a proprietary browser engine used in Microsoft Edge and in Universal Windows Platform (UWP) apps.",
     "link": "https://en.wikipedia.org/wiki/EdgeHTML",
-    "name": "Microsoft Edge (EdgeHTML)",
-    "type": "app"
+    "name": "EdgeHTML",
+    "type": "service"
   },
   {
     "dateClose": "2021-06-30",
