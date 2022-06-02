@@ -1011,5 +1011,21 @@
     ],
     "name": "Flight Arcade",
     "type": "app"
+  },
+  {
+    "dateClose": "2024-01-09",
+    "dateOpen": "1997-10-22",
+    "description": "Windows Server Essentials (formerly Small Business Server or SBS) was an integrated server suite for businesses with no more than 25 users or 50 devices.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Server_Essentials",
+    "name": "Windows Server Essentials",
+    "type": "os"
+  },
+  {
+    "dateClose": "2010-06-30",
+    "dateOpen": "2008-11-12",
+    "description": "Windows Essential Business Server 2008 (code named Centro) was an operating system for server for mid-size businesses (up to a maximum of 300 Users and/or Devices).",
+    "link": "https://en.wikipedia.org/wiki/Windows_Essential_Business_Server_2008",
+    "name": "Windows Essential Business Server 2008",
+    "type": "os"
   }
 ]
