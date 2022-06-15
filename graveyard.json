@@ -1,5 +1,14 @@
 [
   {
+		"dateClose": "2022-06-15",
+		"dateOpen": "1995-08-16",
+		"description": "Internet Explorer was a web browser provided by Microsoft.",
+		"link": "https://www.microsoft.com/en-us/edge/business/ie-mode",
+		"name": "Internet Explorer",
+		"type": "app",
+		"company": "microsoft"
+	},
+  {
     "dateClose": "2015-05-01",
     "dateOpen": "2002-01-01",
     "description": "Windows Media Center was a digital video recorder and media player for Windows.",
