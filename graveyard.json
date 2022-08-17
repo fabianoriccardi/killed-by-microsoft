@@ -1029,6 +1029,17 @@
     "type": "os"
   },
   {
+    "dateClose": "2022-06-15",
+    "dateOpen": "1995-08-16",
+    "description": "Internet Explorer (formerly Microsoft Internet Explorer and Windows Internet Explorer, commonly abbreviated IE or MSIE) was the default web browsers of Windows OS before the launch of Edge.",
+    "link": "https://en.wikipedia.org/wiki/Internet_Explorer",
+    "links": [
+      "https://www.microsoft.com/en-us/edge/business/ie-mode"
+    ],
+    "name": "Internet Explorer",
+    "type": "app"
+  },
+  {
     "dateClose": "2022-12-15",
     "dateOpen": "2014-02-26",
     "description": "Atom was a free, hackable, cross-platform and open-source text editor developed by GitHub with support for plug-ins written in JavaScript and embedded Git Control.",
