@@ -1054,5 +1054,13 @@
     ],
     "name": "Cortana (for Xbox)",
     "type": "app"
+  },
+  {
+    "dateClose": "2014-07-01",
+    "dateOpen": "2011-08-16",
+    "description": "Age of Empires Online was a multiplayer online real-time strategy game developed by Robot Entertainment and Gas Powered Games and based upon the gameplay of the Age of Empires series.",
+    "link": "https://en.wikipedia.org/wiki/Age_of_Empires_Online",
+    "name": "Age of Empires Online",
+    "type": "app"
   }
 ]
