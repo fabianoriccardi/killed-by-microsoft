@@ -1038,5 +1038,40 @@
     ],
     "name": "Internet Explorer",
     "type": "app"
+  },
+  {
+    "dateClose": "2022-12-15",
+    "dateOpen": "2014-02-26",
+    "description": "Atom was a free, hackable, cross-platform and open-source text editor developed by GitHub with support for plug-ins written in JavaScript and embedded Git Control.",
+    "link": "https://en.wikipedia.org/wiki/Atom_(text_editor)",
+    "name": "Atom",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-03-31",
+    "dateOpen": "2015-12-01",
+    "description": "Cortana (for Mobile) was the frontend app for iOS and Android to access to the virtual assistant Cortana.",
+    "link": "https://en.wikipedia.org/wiki/Cortana_(virtual_assistant)",
+    "name": "Cortana (for Mobile)",
+    "type": "app"
+  },
+  {
+    "dateClose": "2020-07-24",
+    "dateOpen": "2016-06-06",
+    "description": "Cortana (for Xbox) was the frontend app to access to the virtual assistant Cortana.",
+    "link": "https://en.wikipedia.org/wiki/Cortana_(virtual_assistant)",
+    "links": [
+      "https://www.wired.co.uk/article/xbox-one-cortana-redesign-windows-10"
+    ],
+    "name": "Cortana (for Xbox)",
+    "type": "app"
+  },
+  {
+    "dateClose": "2014-07-01",
+    "dateOpen": "2011-08-16",
+    "description": "Age of Empires Online was a multiplayer online real-time strategy game developed by Robot Entertainment and Gas Powered Games and based upon the gameplay of the Age of Empires series.",
+    "link": "https://en.wikipedia.org/wiki/Age_of_Empires_Online",
+    "name": "Age of Empires Online",
+    "type": "app"
   }
 ]
