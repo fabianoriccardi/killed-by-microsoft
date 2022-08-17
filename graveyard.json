@@ -1,14 +1,5 @@
 [
   {
-    "dateClose": "2022-06-15",
-    "dateOpen": "1995-08-16",
-    "description": "Internet Explorer was a web browser provided by Microsoft.",
-    "link": "https://www.microsoft.com/en-us/edge/business/ie-mode",
-    "name": "Internet Explorer",
-    "type": "app",
-    "company": "microsoft"
-  },
-  {
     "dateClose": "2015-05-01",
     "dateOpen": "2002-01-01",
     "description": "Windows Media Center was a digital video recorder and media player for Windows.",
@@ -1036,5 +1027,16 @@
     "link": "https://en.wikipedia.org/wiki/Windows_Essential_Business_Server_2008",
     "name": "Windows Essential Business Server 2008",
     "type": "os"
+  },
+  {
+    "dateClose": "2022-06-15",
+    "dateOpen": "1995-08-16",
+    "description": "Internet Explorer (formerly Microsoft Internet Explorer and Windows Internet Explorer, commonly abbreviated IE or MSIE) was the default web browsers of Windows OS before the launch of Edge.",
+    "link": "https://en.wikipedia.org/wiki/Internet_Explorer",
+    "links": [
+      "https://www.microsoft.com/en-us/edge/business/ie-mode"
+    ],
+    "name": "Internet Explorer",
+    "type": "app"
   }
 ]
