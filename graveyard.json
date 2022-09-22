@@ -1073,5 +1073,29 @@
     "link": "https://en.wikipedia.org/wiki/Age_of_Empires_Online",
     "name": "Age of Empires Online",
     "type": "app"
+  },
+  {
+    "dateClose": "2022-04-11",
+    "dateOpen": "2018-05-08",
+    "description": "Forza Street (previously Miami Street) was a free-to-play racing game dow Windows 10, Android, and iOS.",
+    "link": "https://en.wikipedia.org/wiki/Forza#Forza_Street_(2019%E2%80%932022)",
+    "name": "Forza Street",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-04-26",
+    "dateOpen": "2019-08-22",
+    "description": "Gears Pop! was a mobile real-time strategy video game in which two players battle using Funko Pop!-stylized characters from the Gears of War fictional universe.",
+    "link": "https://en.wikipedia.org/wiki/Gears_Pop",
+    "name": "Gears Pop!",
+    "type": "app"
+  },
+  {
+    "dateClose": "2017-07-01",
+    "dateOpen": "2013-11-22",
+    "description": "Xbox Fitness was an online service that took the world’s best fitness videos and made them interactive with the power of Xbox One.",
+    "link": "https://en.wikipedia.org/wiki/Xbox_Fitness",
+    "name": "Xbox Fitness",
+    "type": "service"
   }
 ]
