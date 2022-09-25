@@ -1116,5 +1116,28 @@
     ],
     "name": "Microsoft bCentral",
     "type": "service"
+  },
+  {
+    "dateClose": "2012-07-10",
+    "dateOpen": "2001-01-01",
+    "description": "ProClarity was a desktop business intelligence software suite that enabled the user to understand information contained within large volumes of organization data, which took the name from the homonymous company.",
+    "link": "https://en.wikipedia.org/wiki/ProClarity",
+    "links": [
+      "https://learn.microsoft.com/en-us/lifecycle/products/microsoft-proclarity-63",
+      "https://news.microsoft.com/2006/04/03/microsoft-agrees-to-acquire-proclarity-enhancing-business-intelligence-offering/"
+    ],
+    "name": "ProClarity",
+    "type": "app"
+  },
+  {
+    "dateClose": "2013-01-08",
+    "dateOpen": "2007-12-20",
+    "description": "Microsoft Office PerformancePoint Server was a business intelligence software product and it was generally an integration of the acquisitions from ProClarity, quickly merged in SharePoint Server 2010.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Office_PerformancePoint_Server",
+    "links": [
+      "https://learn.microsoft.com/en-us/lifecycle/products/microsoft-office-performancepoint-server-2007"
+    ],
+    "name": "Microsoft Office PerformancePoint Server",
+    "type": "app"
   }
 ]
