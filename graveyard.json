@@ -1097,5 +1097,24 @@
     "link": "https://en.wikipedia.org/wiki/Xbox_Fitness",
     "name": "Xbox Fitness",
     "type": "service"
+  },
+  {
+    "dateClose": "2003-08-19",
+    "dateOpen": "1996-11-19",
+    "description": "Microsoft Photo Editor was a raster graphics editor component of Microsoft Office first included with Microsoft Office 97 that provided editing tools to texturize, create negatives, adjust gamma, and add transparency to GIF images.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Photo_Editor",
+    "name": "Microsoft Photo Editor",
+    "type": "app"
+  },
+  {
+    "dateClose": "2004-06-01",
+    "dateOpen": "1999-09-01",
+    "description": "Microsoft bCentral was a service for small businesses to easily establish an online presence with integrated suite of services for site creation and hosting, web communications, and online marketing.",
+    "link": "https://news.microsoft.com/2000/09/21/microsoft-launches-bcentral-business-web-services/",
+    "links": [
+      "https://www.infoworld.com/article/2668134/microsoft-to-retire-bcentral.html"
+    ],
+    "name": "Microsoft bCentral",
+    "type": "service"
   }
 ]
