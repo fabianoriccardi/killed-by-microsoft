@@ -1167,5 +1167,29 @@
     "link": "https://en.wikipedia.org/wiki/Channel_9_(Microsoft)",
     "name": "Channel 9",
     "type": "service"
+  },
+  {
+    "dateClose": "2011-02-14",
+    "dateOpen": "1997-06-01",
+    "description": "Windows Virtual PC (formerly Microsoft Virtual PC 2007, Microsoft Virtual PC 2004, and Connectix Virtual PC) was a virtualization program for Microsoft Windows originally developed as a Macintosh application for System 7.5 by Connectix.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Virtual_PC",
+    "name": "Windows Virtual PC",
+    "type": "app"
+  },
+  {
+    "dateClose": "2011-03-01",
+    "dateOpen": "1998-12-04",
+    "description": "Windows Embedded Automotive (formerly Microsoft Auto, Windows CE for Automotive, Windows Automotive, and Windows Mobile for Automotive) was an operating system subfamily of Windows Embedded based on Windows CE for use on computer systems in automobiles.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Embedded_Automotive",
+    "name": "Windows Embedded Automotive",
+    "type": "os"
+  },
+  {
+    "dateClose": "2009-09-01",
+    "dateOpen": "2008-09-04",
+    "description": "Microsoft AutoCollage (re-named in Microsoft Research AutoCollage and Microsoft Research AutoCollage Touch) was a photomontage desktop application to create a collage of representative elements from a set of images, able to detect and empathize faces and objects.",
+    "link": "https://en.wikipedia.org/wiki/AutoCollage_2008",
+    "name": "Microsoft AutoCollage",
+    "type": "app"
   }
 ]
