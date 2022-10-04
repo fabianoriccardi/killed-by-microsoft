@@ -380,9 +380,9 @@
   {
     "dateClose": "2008-04-01",
     "dateOpen": "1991-01-01",
-    "description": "Visual Basic was a third-generation event-driven programming language known for its Component Object Model (COM) programming model.",
-    "link": "https://en.wikipedia.org/wiki/Visual_Basic",
-    "name": "Visual Basic",
+    "description": "Classic Visual Basic (formerly only Visual Basic) was a third-generation event-driven programming language known for its Component Object Model (COM) programming model.",
+    "link": "https://en.wikipedia.org/wiki/Visual_Basic_(classic)",
+    "name": "Classic Visual Basic",
     "type": "service"
   },
   {
@@ -1191,5 +1191,13 @@
     "link": "https://en.wikipedia.org/wiki/AutoCollage_2008",
     "name": "Microsoft AutoCollage",
     "type": "app"
+  },
+  {
+    "dateClose": "1989-01-01",
+    "dateOpen": "1980-01-01",
+    "description": "Xenix was a version of the Unix operating system for various microcomputer platforms, licensed by Microsoft from AT&T Corporation in the late 1970s that reached the largest market share among Unix OSs in mid '80s.",
+    "link": "https://en.wikipedia.org/wiki/Xenix",
+    "name": "Xenix",
+    "type": "os"
   }
 ]
