@@ -1199,5 +1199,29 @@
     "link": "https://en.wikipedia.org/wiki/Xenix",
     "name": "Xenix",
     "type": "os"
+  },
+  {
+    "dateClose": "1999-01-01",
+    "dateOpen": "1998-01-01",
+    "description": "Harman/Kardon Take Control TC1000 was an IR remote control designed in conjunction with Microsoft equipped with a LCD touchscreen to control any device and customizable via a desktop application.",
+    "link": "https://www.remotecentral.com/take/index.html",
+    "name": "Take Control TC1000",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2009-01-01",
+    "dateOpen": "2006-10-01",
+    "description": "Ms. Dewey was a web search engine based on an experimental interface, developed in Adobe Flash, for Live Search, where the eponymous Ms. Dewey, played by actress Janina Gavankar, acted as an interactive search assistant for the user's inquiries.",
+    "link": "https://en.wikipedia.org/wiki/Ms._Dewey",
+    "name": "Ms. Dewey",
+    "type": "service"
+  },
+  {
+    "dateClose": "2002-02-01",
+    "dateOpen": "1997-11-07",
+    "description": "Myth: The Fallen Lords was a real-time tactics video game developed originally by Bungie until Microsoft bought and discontinued it to let the developers focus on Halo.",
+    "link": "https://en.wikipedia.org/wiki/Myth:_The_Fallen_Lords",
+    "name": "Myth: The Fallen Lords",
+    "type": "service"
   }
 ]
