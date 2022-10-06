@@ -847,11 +847,14 @@
     "type": "app"
   },
   {
-    "dateClose": "2006-01-01",
+    "dateClose": "2007-06-15",
     "dateOpen": "1996-09-01",
-    "description": "Microsoft Picture It! was a photo editing application designed for casual users and initially inspired to the wizard user interface concepts of Microsoft Publisher.",
-    "link": "https://en.wikipedia.org/wiki/Microsoft_Picture_It!",
-    "name": "Microsoft PictureIt!",
+    "description": "Microsoft Digital Image (formerly Picture It!) was a photo editing application designed for casual users and initially inspired to the wizard user interface concepts of Microsoft Publisher.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Digital_Image",
+    "links": [
+      "https://en.wikipedia.org/wiki/Microsoft_Picture_It!"
+    ],
+    "name": "Microsoft Digital Image",
     "type": "app"
   },
   {
@@ -1223,5 +1226,32 @@
     "link": "https://en.wikipedia.org/wiki/Myth:_The_Fallen_Lords",
     "name": "Myth: The Fallen Lords",
     "type": "service"
+  },
+  {
+    "dateClose": "2008-01-01",
+    "dateOpen": "2000-02-15",
+    "description": "Windows Media Services (WMS) was a streaming media server software that allows a Windows Server administrator to generate streaming media (audio/video).",
+    "link": "https://en.wikipedia.org/wiki/Windows_Media_Services",
+    "links": [
+      "https://news.microsoft.com/2000/02/15/microsoft-windows-media-services-in-windows-2000-server-removes-barriers-for-enterprise-streaming/"
+    ],
+    "name": "Microsoft Media Services",
+    "type": "app"
+  },
+  {
+    "dateClose": "2006-01-01",
+    "dateOpen": "2002-01-01",
+    "description": "Microsoft Photo Story was a free application that allows users to create a visual story (show and tell presentation) from their digital photos.",
+    "link": "https://en.wikipedia.org/wiki/Photo_Story",
+    "name": "Microsoft Photo Story",
+    "type": "app"
+  },
+  {
+    "dateClose": "2005-01-01",
+    "dateOpen": "1994-01-31",
+    "description": "Microsoft Plus! was a commercial enhancement for Windows which included a variety of software such as screensavers, themes, games, and multimedia applications.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Plus!",
+    "name": "Microsoft Plus!",
+    "type": "app"
   }
 ]
