@@ -85,9 +85,9 @@
   {
     "dateClose": "2012-05-05",
     "dateOpen": "2005-11-01",
-    "description": "Microsoft Live was a brand-name for a set of web services and software products from Microsoft as part of its software plus services platform.",
+    "description": "Windows Live was a brand-name for a set of web services and software products from Microsoft as part of its software-as-a-service platform.",
     "link": "https://en.wikipedia.org/wiki/Windows_Live",
-    "name": "Microsoft Live",
+    "name": "Windows Live",
     "type": "service"
   },
   {
@@ -1252,6 +1252,22 @@
     "description": "Microsoft Plus! was a commercial enhancement for Windows which included a variety of software such as screensavers, themes, games, and multimedia applications.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Plus!",
     "name": "Microsoft Plus!",
+    "type": "app"
+  },
+  {
+    "dateClose": "2017-01-10",
+    "dateOpen": "2003-06-02",
+    "description": "Windows Photo Gallery (formerly known as Windows Live Photo Gallery) was an image organizer, photo editor and photo sharing program and it was part of Windows Essentials software suite.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Photo_Gallery",
+    "name": "Windows Photo Gallery",
+    "type": "app"
+  },
+  {
+    "dateClose": "2017-01-10",
+    "dateOpen": "2007-11-06",
+    "description": "Windows Live Mail (formerly named Windows Live Mail Desktop) was a freeware email client designed (but not limited) to use the proprietary DeltaSync protocol and it was the successor to Windows Mail in Windows Vista, which, in turn, was the successor to Outlook Express in Windows XP/98.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Live_Mail",
+    "name": "Windows Live Mail",
     "type": "app"
   }
 ]
