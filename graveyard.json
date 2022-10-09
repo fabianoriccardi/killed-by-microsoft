@@ -1269,5 +1269,50 @@
     "link": "https://en.wikipedia.org/wiki/Windows_Live_Mail",
     "name": "Windows Live Mail",
     "type": "app"
+  },
+  {
+    "dateClose": "2009-08-31",
+    "dateOpen": "2007-02-14",
+    "description": "Soapbox on MSN Video was an internet video-sharing service offered via MSN portal, similar to YouTube.",
+    "link": "https://en.wikipedia.org/wiki/MSN_Soapbox",
+    "links": [
+      "https://www.cnet.com/tech/services-and-software/msn-soapbox-goes-public/",
+      "https://www.liveside.net/2009/07/22/oh-snap-msn-to-discontinue-soapbox-we-re-screwed/"
+    ],
+    "name": "Soapbox on MSN Video",
+    "type": "service"
+  },
+  {
+    "dateClose": "2010-12-15",
+    "dateOpen": "2008-07-30",
+    "description": "Windows Live FrameIt was a service under the Windows Live brand to extend the functionality of digital photo frames or any RSS enabled devices, allowing the users to customise the displayed information using multiple data sources.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Live_FrameIt",
+    "links": [
+      "https://www.liveside.net/2010/11/17/windows-live-frameit-shutting-down-december-15/"
+    ],
+    "name": "Windows Live FrameIt",
+    "type": "service"
+  },
+  {
+    "dateClose": "2009-05-21",
+    "dateOpen": "2006-03-16",
+    "description": "MSN QnA (formerly Live Search QnA and Windows Live QnA) was a question and answer service, part of MSN group of services where users could ask questions, tag them according to topic, and gain points and reputation for answering other users' questions.",
+    "link": "https://en.wikipedia.org/wiki/MSN_QnA",
+    "links": [
+      "https://www.liveside.net/2009/05/11/msn-qna-beta-is-closing-on-may-21st/"
+    ],
+    "name": "MSN QnA",
+    "type": "service"
+  },
+  {
+    "dateClose": "2008-07-31",
+    "dateOpen": "2006-02-28",
+    "description": "Windows Live Expo was a classified advertisements website, similar to Craigslist, with sections devoted to different topics such as jobs, housing, gigs, and résumés.",
+    "link": "https://www.liveside.net/2008/06/04/windows-live-expo-joins-the-windows-live-deadpool/",
+    "links": [
+      "https://www.liveside.net/2008/06/04/windows-live-expo-joins-the-windows-live-deadpool/"
+    ],
+    "name": "Windows Live Expo",
+    "type": "service"
   }
 ]
