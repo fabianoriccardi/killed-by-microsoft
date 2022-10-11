@@ -678,7 +678,9 @@
     "dateOpen": "2006-12-01",
     "description": "Windows MultiPoint Mouse was a technology that enables the use of multiple pointing devices on the same computer.",
     "link": "https://en.wikipedia.org/wiki/Windows_Multipoint_Mouse",
-    "links": "https://web.archive.org/web/20071117163139/http://blogs.msdn.com/multipoint/default.aspx",
+    "links": [
+      "https://web.archive.org/web/20071117163139/http://blogs.msdn.com/multipoint/default.aspx"
+    ],
     "name": "Windows MultiPoint Mouse",
     "type": "service"
   },
