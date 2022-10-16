@@ -3,7 +3,7 @@
   "version": "0.8.1",
   "description": "Part guillotine, part graveyard for Microsoft's doomed apps, services, and hardware.",
   "main": "src/index.js",
-  "repository": "git@github.com:fabiuz7/killed-by-microsoft.git",
+  "repository": "git@github.com:fabianoriccardi/killed-by-microsoft.git",
   "author": "Fabiano Riccardi",
   "license": "MIT",
   "devDependencies": {

@@ -35,14 +35,14 @@ Link should be a resource that mentions the discontinuation date and talks about
 
 ### Type
 
-The type of product must be either: 
+The type of product must be either:
 
 - `app`: software installable on an OS (i.e. Office) or a specific functionality of an app (i.e. a plugin, such as Clippy for Office)
 - `service`: web-based services (i.e. TechNet) or mixture of hardware and/or software which concur to provide value to the user
 - `os`: operative systems (i.e. Windows Mobile)
 - `hardware`: a physical object or a family (i.e. Lumia)
 
-If you are not familiar with or do not want to use `git`, submit a [new issue](https://github.com/fabiuz/killedbymicrosoft/issues/new?template=add-an-obituary.md) requesting the change. If you are already familiar with `git`, follow these steps:
+If you are not familiar with or do not want to use `git`, submit a [new issue](https://github.com/fabianoriccardi/killed-by-microsoft/issues/new?template=add-an-obituary.md) requesting the change. If you are already familiar with `git`, follow these steps:
 
 1. If you haven't already, start by [forking](https://help.github.com/en/articles/fork-a-repo) this repository.
 2. [Create a new branch](https://help.github.com/en/desktop/contributing-to-projects/creating-a-branch-for-your-work) in your fork. Name it using the product you want to add

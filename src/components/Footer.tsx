@@ -84,7 +84,7 @@ export default () => (
           </p>
           <p>
             <a
-              href="https://github.com/fabiuz7/killed-by-microsoft/graphs/contributors"
+              href="https://github.com/fabianoriccardi/killed-by-microsoft/graphs/contributors"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -93,7 +93,7 @@ export default () => (
             &nbsp;from around the world help compile, research, and maintain the
             information about dying and dead Microsoft products. You can join the
             discussion on&nbsp;
-            <a href="https://github.com/fabiuz7/killed-by-microsoft/issues">GitHub</a>. This project is derived from Killed By Google
+            <a href="https://github.com/fabianoriccardi/killed-by-microsoft/issues">GitHub</a>. This project is derived from Killed By Google
             by&nbsp;
             <a
               href="https://codyogden.com"
@@ -115,13 +115,13 @@ export default () => (
           </p>
         </div>
         <CopyNotice>
-          <a href="https://github.com/fabiuz7/killed-by-microsoft/blob/master/LICENSE">
+          <a href="https://github.com/fabianoriccardi/killed-by-microsoft/blob/master/LICENSE">
             &copy; 2022-2020 Fabiano Riccardi, 2020-2019 Cody Ogden.
           </a>
         </CopyNotice>
         <SocialWrapper>
           <SocialLink
-            url="https://github.com/fabiuz7/killed-by-microsoft"
+            url="https://github.com/fabianoriccardi/killed-by-microsoft"
             altText="GitHub"
             imgSrc={GITHUB}
           />
