@@ -69,6 +69,8 @@ For code contributions outside of `graveyard.json`, check out the [Contributing 
 
 ## Install and build
 
+Install Node v14.x.x (😢):
+
     yarn install
     node bin/graveyard
     yarn dev
