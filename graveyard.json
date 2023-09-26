@@ -1316,5 +1316,13 @@
     ],
     "name": "Windows Live Expo",
     "type": "service"
+  },
+  {
+    "dateClose": "2023-03-10",
+    "dateOpen": "2015-05-01",
+    "description": "AltSpace VR was a cross-platform social VR consisting of user-generated spaces called worlds, which could be visited by other users.",
+    "link": "https://en.wikipedia.org/wiki/AltspaceVR",
+    "name": "AltSpace VR",
+    "type": "service"
   }
 ]
