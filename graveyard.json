@@ -1324,5 +1324,25 @@
     "link": "https://en.wikipedia.org/wiki/AltspaceVR",
     "name": "AltSpace VR",
     "type": "service"
+  },
+  {
+    "dateClose": "2024-08-31",
+    "dateOpen": "2017-05-10",
+    "description": "Visual Studio for Mac was an integrated development environment (IDE) and, despite the name, it was a rebranded version of MonoDevelop that reused some components of the main Visual Studio.",
+    "link": "https://en.wikipedia.org/wiki/MonoDevelop#Visual_Studio_for_Mac",
+    "links": [
+      "https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-now-generally-available/",
+      "https://devblogs.microsoft.com/visualstudio/visual-studio-for-mac-retirement-announcement/"
+    ],
+    "name": "Visual Studio for Mac",
+    "type": "app"
+  },
+  {
+    "dateClose": "2024-05-01",
+    "dateOpen": "2011-05-16",
+    "description": "Xamarin was the first native cross-platform mobile application development framework which provided the basis for MAUI framework.",
+    "link": "https://it.wikipedia.org/wiki/Xamarin",
+    "name": "Xamarin",
+    "type": "app"
   }
 ]
