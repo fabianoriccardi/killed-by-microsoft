@@ -1344,5 +1344,16 @@
     "link": "https://it.wikipedia.org/wiki/Xamarin",
     "name": "Xamarin",
     "type": "app"
+  },
+  {
+    "dateClose": "2024-07-29",
+    "dateOpen": "2005-11-20",
+    "description": "Xbox Games Store (formerly Xbox Live Marketplace) was a digital store for Xbox 360 games.",
+    "link": "https://en.wikipedia.org/wiki/Xbox_Games_Store",
+    "links": [
+      "https://support.xbox.com/en-US/help/xbox-360/store/xbox-360-marketplace-update"
+    ],
+    "name": "Xbox 360 Marketplace",
+    "type": "service"
   }
 ]
