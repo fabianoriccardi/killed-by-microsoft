@@ -1,13 +1,5 @@
 [
   {
-    "dateClose": "2024-07-29",
-    "dateOpen": "2005-11-20",
-    "description": "Xbox 360 Marketplace was a digital store for Xbox 360 games.",
-    "link": "https://support.xbox.com/en-US/help/xbox-360/store/xbox-360-marketplace-update",
-    "name": "Xbox 360 Marketplace",
-    "type": "service"
-  },
-  {
     "dateClose": "2015-05-01",
     "dateOpen": "2002-01-01",
     "description": "Windows Media Center was a digital video recorder and media player for Windows.",
@@ -1323,6 +1315,17 @@
       "https://www.liveside.net/2008/06/04/windows-live-expo-joins-the-windows-live-deadpool/"
     ],
     "name": "Windows Live Expo",
+    "type": "service"
+  },
+  {
+    "dateClose": "2024-07-29",
+    "dateOpen": "2005-11-20",
+    "description": "Xbox Games Store (formerly Xbox Live Marketplace) was a digital store for Xbox 360 games.",
+    "link": "https://en.wikipedia.org/wiki/Xbox_Games_Store",
+    "links": [
+      "https://support.xbox.com/en-US/help/xbox-360/store/xbox-360-marketplace-update"
+    ],
+    "name": "Xbox 360 Marketplace",
     "type": "service"
   }
 ]
