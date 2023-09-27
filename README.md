@@ -57,7 +57,7 @@ If you are not familiar with or do not want to use `git`, submit a [new issue](h
     "link": "https://any.link-to-a.source/will/work-and-wikipedia-is-cool",
     "links": [
       "https://any.link-to-a.source/will/work-and-wikipedia-is-cool"
-    ]
+    ],
     "name": "[Product Name]",
     "type": "app|service|os|hardware"
   }
