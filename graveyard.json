@@ -1,13 +1,5 @@
 [
   {
-    "dateClose": "2023-03-10",
-    "dateOpen": "2015-01-30",
-    "description": "AltspaceVR was a vibrant, community-centric, VR platform (acquired in 2017), which hosted events including comedy shows, festivals, and weddings.",
-    "link": "https://en.wikipedia.org/wiki/AltspaceVR",
-    "name": "AltspaceVR",
-    "type": "service"
-  },
-  {
     "dateClose": "2015-05-01",
     "dateOpen": "2002-01-01",
     "description": "Windows Media Center was a digital video recorder and media player for Windows.",
@@ -1323,6 +1315,14 @@
       "https://www.liveside.net/2008/06/04/windows-live-expo-joins-the-windows-live-deadpool/"
     ],
     "name": "Windows Live Expo",
+    "type": "service"
+  },
+  {
+    "dateClose": "2023-03-10",
+    "dateOpen": "2015-01-30",
+    "description": "AltspaceVR was a vibrant, community-centric, VR platform (acquired in 2017), which hosted events including comedy shows, festivals, and weddings.",
+    "link": "https://en.wikipedia.org/wiki/AltspaceVR",
+    "name": "AltspaceVR",
     "type": "service"
   }
 ]
