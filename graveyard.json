@@ -1362,9 +1362,17 @@
   {
     "dateClose": "2020-11-01",
     "dateOpen": "2016-03-30",
-    "description": ": Windows Application Driver (WinAppDriver) was an open-source service to support Selenium-like UI Test Automation on Windows Applications.",
+    "description": "Windows Application Driver (WinAppDriver) was an open-source service to support Selenium-like UI Test Automation on Windows Applications.",
     "link": "https://github.com/microsoft/WinAppDriver",
     "name": "Windows Application Driver",
+    "type": "service"
+  },
+  {
+    "dateClose": "2023-08-31",
+    "dateOpen": "2016-02-22",
+    "description": "Microsoft Kaizala was a secure messaging and work management software application for collaboration among users inside and outside of organizations, including the ability to send and receive instant messages, coordinate tasks, and submit invoices.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Kaizala",
+    "name": "Microsoft Kaizala",
     "type": "service"
   }
 ]
