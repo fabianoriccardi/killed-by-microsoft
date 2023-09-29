@@ -1358,5 +1358,13 @@
     ],
     "name": "Xbox Games Store",
     "type": "service"
+  },
+  {
+    "dateClose": "2020-11-01",
+    "dateOpen": "2016-03-30",
+    "description": ": Windows Application Driver (WinAppDriver) was an open-source service to support Selenium-like UI Test Automation on Windows Applications.",
+    "link": "https://github.com/microsoft/WinAppDriver",
+    "name": "Windows Application Driver",
+    "type": "service"
   }
 ]
