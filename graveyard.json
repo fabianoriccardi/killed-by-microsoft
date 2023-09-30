@@ -1374,5 +1374,36 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_Kaizala",
     "name": "Microsoft Kaizala",
     "type": "service"
+  },
+  {
+    "dateClose": "2023-12-31",
+    "dateOpen": "2014-04-02",
+    "description": "Cortana was a virtual assistant that uses the Bing search engine to perform tasks such as setting reminders and answering questions for the user.",
+    "link": "https://en.wikipedia.org/wiki/Cortana_(virtual_assistant)",
+    "name": "Cortana",
+    "type": "service"
+  },
+  {
+    "dateClose": "2023-08-30",
+    "dateOpen": "2018-03-01",
+    "description": "Soundscape was a service for iOS that aims to give people who are blind or visually impaired a greater awareness of their surrounding by using 3D cues.",
+    "link": "https://techcrunch.com/2018/03/01/microsoft-soundscape-helps-the-visually-impaired-navigate-cities/",
+    "links": [
+      "https://www.microsoft.com/en-us/research/blog/microsoft-soundscape-new-horizons-with-a-community-driven-approach/"
+    ],
+    "name": "Soundscape",
+    "type": "service"
+  },
+  {
+    "dateClose": "2012-05-31",
+    "dateOpen": "2009-06-24",
+    "description": "Microsoft Hohm was an web application that enables consumers to better understand their energy usage and provided money saving recommendations.",
+    "link": "https://en.wikipedia.org/wiki/Hohm",
+    "links": [
+      "https://news.microsoft.com/2009/06/24/microsoft-hohm-helps-consumers-save-money-and-energy/",
+      "https://www.cnet.com/culture/microsoft-kills-hohm-energy-app/"
+    ],
+    "name": "Microsoft Hohm",
+    "type": "service"
   }
 ]
