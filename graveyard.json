@@ -1405,5 +1405,17 @@
     ],
     "name": "Microsoft Hohm",
     "type": "service"
+  },
+  {
+    "dateClose": "2018-09-24",
+    "dateOpen": "2016-12-19",
+    "description": "Minecraft: Apple TV Edition was the version of Bedrock Edition designed to run on tvOS.",
+    "link": "https://en.wikipedia.org/wiki/Minecraft",
+    "links": [
+      "https://www.minecraft.net/it-it/article/apple-tv-edition-released",
+      "https://minecraft.fandom.com/wiki/Apple_TV_Edition"
+    ],
+    "name": "Minecraft: Apple TV Edition",
+    "type": "app"
   }
 ]
