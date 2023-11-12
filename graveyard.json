@@ -1417,5 +1417,28 @@
     ],
     "name": "Minecraft: Apple TV Edition",
     "type": "app"
+  },
+  {
+    "dateClose": "2024-01-09",
+    "dateOpen": "2008-10-01",
+    "description": "Hyper-V Server was a free limited version of Windows Server with Hyper-V role to support an enterprise-class virtualization, finally superseded by Azure services.",
+    "link": "https://en.wikipedia.org/wiki/Hyper-V",
+    "links": [
+      "https://www.theregister.com/2021/08/31/hyper_v_server_discontinued/",
+      "https://learn.microsoft.com/en-us/lifecycle/products/hyperv-server-2019"
+    ],
+    "name": "Hyper-V Server",
+    "type": "os"
+  },
+  {
+    "dateClose": "2022-01-11",
+    "dateOpen": "2003-09-10",
+    "description": "Windows Storage Server was a variant of the Windows Server operating system targeted towards network-attached data storage solutions.",
+    "link": "https://web.archive.org/web/20030920074052/http://www.microsoft.com/presspass/press/2003/sep03/09-10StorageLaunchPR.asp",
+    "links": [
+      "https://learn.microsoft.com/en-us/lifecycle/products/windows-storage-server-2016"
+    ],
+    "name": "Windows Storage Server",
+    "type": "os"
   }
 ]
