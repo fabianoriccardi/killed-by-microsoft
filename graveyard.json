@@ -1440,8 +1440,8 @@
     ],
     "name": "Windows Storage Server",
     "type": "os"
-  }
-    {
+  },
+  {
     "dateClose": "2025-10-14",
     "dateOpen": "2015-07-12",
     "description": "Windows 10 was the most successful Microsoft Operating System since Windows 7, launched with the goal to create a single execution and development platform across devices and form factors.",
