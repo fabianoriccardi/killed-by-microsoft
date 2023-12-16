@@ -1440,5 +1440,41 @@
     ],
     "name": "Windows Storage Server",
     "type": "os"
+  },
+  {
+    "dateClose": "2024-04-15",
+    "dateOpen": "2017-06-20",
+    "description": "Microsoft Stream (classic) was a corporate video-sharing service that replaced the former Office 365 Video; notably, it included free storage of hosted videos.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Stream",
+    "links": [
+      "https://www.zdnet.com/article/microsoft-launches-stream-its-office-365-business-video-service/",
+      "https://techcommunity.microsoft.com/t5/microsoft-stream-blog/update-on-stream-classic-retirement-last-day-of-service-set-for/ba-p/3712075",
+      "https://learn.microsoft.com/en-us/stream/streamnew/stream-classic-to-new-migration-overview#migration--retirement-timeline"
+    ],
+    "name": "Microsoft Stream (classic)",
+    "type": "service"
+  },
+  {
+    "dateClose": "2024-09-30",
+    "dateOpen": "2019-03-26",
+    "description": "Teams Live Events in Microsoft Teams was a service that enabled users to schedule, produce, broadcast and record rich, interactive streaming content for up to 10000 attendees that could join live from anywhere and across any device or watch on-demand.",
+    "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/live-events-now-generally-available-in-microsoft-teams/ba-p/386460",
+    "links": [
+      "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-town-halls-in-microsoft-teams-and-retiring-microsoft/ba-p/3925739"
+    ],
+    "name": "Teams Live Events",
+    "type": "service"
+  },
+  {
+    "dateClose": "2024-01-31",
+    "dateOpen": "2008-09-08",
+    "description": "Yammer was an internal communication system for the genealogy website Geni.com launched in 2008 and then acquired by Microsoft in 2012.",
+    "link": "https://en.wikipedia.org/wiki/Yammer",
+    "links": [
+      "https://www.microsoft.com/en-us/microsoft-365/blog/2023/02/13/yammer-is-evolving-to-microsoft-viva-engage-with-new-experiences-rolling-out-today/",
+      "https://techcommunity.microsoft.com/t5/viva-engage-blog/yammer-is-evolving-to-viva-engage/ba-p/3738825"
+    ],
+    "name": "Yammer",
+    "type": "service"
   }
 ]
