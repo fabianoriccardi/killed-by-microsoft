@@ -1476,5 +1476,18 @@
     ],
     "name": "Yammer",
     "type": "service"
+  },
+  {
+    "dateClose": "2024-12-16",
+    "dateOpen": "2014-03-07",
+    "description": "Delve is used to manage users' Microsoft 365 profile, and to discover and organize via machine learning the information that's likely to be most interesting to them across Microsoft 365.",
+    "link": "https://support.microsoft.com/en-us/office/what-is-delve-1315665a-c6af-4409-a28d-49f8916878ca",
+    "links": [
+      "https://www.pcworld.com/article/444266/microsoft-sketches-ambitious-enhancements-for-office-365.html",
+      "https://en.wikipedia.org/wiki/Microsoft_Office_shared_tools#Delve",
+      "https://petri.com/microsoft-changelog/m365-changelog-retiring-delve-web/"
+    ],
+    "name": "Delve",
+    "type": "app"
   }
 ]
