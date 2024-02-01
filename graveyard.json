@@ -1476,5 +1476,17 @@
     ],
     "name": "Yammer",
     "type": "service"
+  },
+  {
+    "dateClose": "2019-11-16",
+    "dateOpen": "2014-12-11",
+    "description": "HockeyApp was a mobile beta distribution and crash analytics startup launched 2011 and acquired by Microsoft 2014. At the end of 2019 the service got integrated into Visual Studio App Center.",
+    "link": "https://devblogs.microsoft.com/appcenter/hockeyapp-is-being-retired/",
+    "links": [
+      "https://venturebeat.com/business/microsoft-buys-app-beta-testing-startup-hockeyapp-plans-visual-studio-integration/",
+      "https://www.computerworld.com/article/2858303/microsoft-acquires-cross-platform-mobile-app-power-with-hockeyapp.html"
+    ],
+    "name": "HockeyApp",
+    "type": "service"
   }
 ]
