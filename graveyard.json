@@ -1476,5 +1476,18 @@
     ],
     "name": "Yammer",
     "type": "service"
+  },
+  {
+    "dateClose": "2025-03-05",
+    "dateOpen": "2021-10-21",
+    "description": "Windows Subsystem for Android™️ enables your Windows 11 device to run Android applications that are available in the Amazon Appstore.",
+    "link": "https://learn.microsoft.com/en-us/windows/android/wsa/",
+    "links": [
+      "https://developer.amazon.com/apps-and-games/appstore-on-windows-11",
+      "https://learn.microsoft.com/en-us/windows/android/wsa/release-notes",
+      "https://github.com/microsoft/WSA"
+    ],
+    "name": "Windows Subsystem for Android",
+    "type": "os"
   }
 ]
