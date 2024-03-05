@@ -1488,6 +1488,6 @@
       "https://github.com/microsoft/WSA"
     ],
     "name": "Windows Subsystem for Android",
-    "type": "os"
+    "type": "app"
   }
 ]
