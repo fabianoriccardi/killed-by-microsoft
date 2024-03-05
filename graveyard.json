@@ -1480,7 +1480,7 @@
   {
     "dateClose": "2025-03-05",
     "dateOpen": "2021-10-21",
-    "description": "Windows Subsystem for Android™️ enables your Windows 11 device to run Android applications that are available in the Amazon Appstore.",
+    "description": "Windows Subsystem for Android was a feature in Windows 11 that allowed users to run Android apps directly on their Windows machines.",
     "link": "https://learn.microsoft.com/en-us/windows/android/wsa/",
     "links": [
       "https://developer.amazon.com/apps-and-games/appstore-on-windows-11",
