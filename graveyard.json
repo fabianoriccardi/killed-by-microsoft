@@ -1478,6 +1478,18 @@
     "type": "service"
   },
   {
+    "dateClose": "2019-11-16",
+    "dateOpen": "2011-01-01",
+    "description": "HockeyApp was a mobile beta distribution and crash analytics startup acquired by Microsoft in 2014, until the service got integrated into Visual Studio App Center.",
+    "link": "https://devblogs.microsoft.com/appcenter/hockeyapp-is-being-retired/",
+    "links": [
+      "https://venturebeat.com/business/microsoft-buys-app-beta-testing-startup-hockeyapp-plans-visual-studio-integration/",
+      "https://www.computerworld.com/article/2858303/microsoft-acquires-cross-platform-mobile-app-power-with-hockeyapp.html"
+    ],
+    "name": "HockeyApp",
+    "type": "service"
+  },
+  {
     "dateClose": "2014-12-31",
     "dateOpen": "2014-04-24",
     "description": "Acompli was a mobile app that allowed for user interaction with email messages, calendars and cloud files of multiple accounts in one app launched in April 2014 and then acquired by Microsoft in December 2014.",
