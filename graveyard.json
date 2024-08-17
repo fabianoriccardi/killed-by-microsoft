@@ -1490,5 +1490,18 @@
     ],
     "name": "Stand-alone phones for Skype",
     "type": "hardware"
+  },
+  {
+    "dateClose": "2025-03-05",
+    "dateOpen": "2022-02-15",
+    "description": "Windows Subsystem for Android was a feature of Windows 11 which allows users to install and run Android apps.",
+    "link": "https://en.wikipedia.org/wiki/Windows_11#Windows_Subsystem_for_Android",
+    "links": [
+      "https://blogs.windows.com/windowsexperience/2022/02/15/bringing-you-closer-to-what-you-love-with-new-experiences-in-windows-11/",
+      "https://learn.microsoft.com/en-us/windows/android/wsa/",
+      "https://github.com/microsoft/WSA/discussions/536"
+    ],
+    "name": "Windows Subsystem for Android",
+    "type": "app"
   }
 ]
