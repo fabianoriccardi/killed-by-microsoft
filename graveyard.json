@@ -1503,5 +1503,16 @@
     ],
     "name": "Windows Subsystem for Android",
     "type": "app"
+  },
+  {
+    "dateClose": "2026-10-13",
+    "dateOpen": "1991-01-01",
+    "description": "Microsoft Publisher was a desktop publishing application focusing on page layout and graphic design rather than text composition and proofreading.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Publisher",
+    "links": [
+      "https://support.microsoft.com/en-us/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7"
+    ],
+    "name": "Microsoft Publisher",
+    "type": "app"
   }
 ]
