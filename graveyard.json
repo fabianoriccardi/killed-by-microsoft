@@ -1476,5 +1476,19 @@
     ],
     "name": "Yammer",
     "type": "service"
+  },
+  {
+    "dateClose": "2017-08-01",
+    "dateOpen": "2005-10-10",
+    "description": "Skype landline phones, cordless DECT phones, and analog telephone adapters (ATA) were phones to use skype network and account without the need of a PC or a smartphone.",
+    "link": "https://bit-tech.net/news/tech/linksys_dect_cit200/1/",
+    "links": [
+      "https://support.microsoft.com/en-us/skype/which-skype-enabled-devices-or-platforms-are-no-longer-supported-ada4fb50-b41c-4149-8561-83714e620978",
+      "https://www.nbcnews.com/id/wbna10712110",
+      "https://answers.microsoft.com/en-us/skype/forum/all/cit400-linksys-skype-dect-phone-not-working/24f27f70-0606-4612-9ea0-b5110ba172ad",
+      "https://blog.tmcnet.com/blog/tom-keating/skype/linksys-cit200-skype-phone-review.asp"
+    ],
+    "name": "Stand-alone phones for Skype",
+    "type": "hardware"
   }
 ]
