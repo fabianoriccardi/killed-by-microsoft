@@ -1488,5 +1488,67 @@
     ],
     "name": "Azure Media Services",
     "type": "service"
+  },
+  {
+    "dateClose": "2019-11-16",
+    "dateOpen": "2011-01-01",
+    "description": "HockeyApp was a mobile beta distribution and crash analytics startup acquired by Microsoft in 2014, until the service got integrated into Visual Studio App Center.",
+    "link": "https://devblogs.microsoft.com/appcenter/hockeyapp-is-being-retired/",
+    "links": [
+      "https://venturebeat.com/business/microsoft-buys-app-beta-testing-startup-hockeyapp-plans-visual-studio-integration/",
+      "https://www.computerworld.com/article/2858303/microsoft-acquires-cross-platform-mobile-app-power-with-hockeyapp.html"
+    ],
+    "name": "HockeyApp",
+    "type": "service"
+  },
+  {
+    "dateClose": "2014-12-31",
+    "dateOpen": "2014-04-24",
+    "description": "Acompli was a mobile app that allowed for user interaction with email messages, calendars and cloud files of multiple accounts in one app launched in April 2014 and then acquired by Microsoft in December 2014.",
+    "link": "https://en.wikipedia.org/wiki/Acompli",
+    "links": [
+      "https://blogs.microsoft.com/blog/2014/12/01/microsoft-acquires-acompli-provider-innovative-mobile-email-apps/",
+      "https://techcrunch.com/2014/12/01/microsoft-buys-email-app-acompli-for-200m-will-still-support-gmail-and-other-competitors/"
+    ],
+    "name": "Acompli",
+    "type": "app"
+  },
+  {
+    "dateClose": "2017-08-01",
+    "dateOpen": "2005-10-10",
+    "description": "Skype landline phones, cordless DECT phones, and analog telephone adapters (ATA) were phones to use skype network and account without the need of a PC or a smartphone.",
+    "link": "https://bit-tech.net/news/tech/linksys_dect_cit200/1/",
+    "links": [
+      "https://support.microsoft.com/en-us/skype/which-skype-enabled-devices-or-platforms-are-no-longer-supported-ada4fb50-b41c-4149-8561-83714e620978",
+      "https://www.nbcnews.com/id/wbna10712110",
+      "https://answers.microsoft.com/en-us/skype/forum/all/cit400-linksys-skype-dect-phone-not-working/24f27f70-0606-4612-9ea0-b5110ba172ad",
+      "https://blog.tmcnet.com/blog/tom-keating/skype/linksys-cit200-skype-phone-review.asp"
+    ],
+    "name": "Stand-alone phones for Skype",
+    "type": "hardware"
+  },
+  {
+    "dateClose": "2025-03-05",
+    "dateOpen": "2022-02-15",
+    "description": "Windows Subsystem for Android was a feature of Windows 11 which allows users to install and run Android apps.",
+    "link": "https://en.wikipedia.org/wiki/Windows_11#Windows_Subsystem_for_Android",
+    "links": [
+      "https://blogs.windows.com/windowsexperience/2022/02/15/bringing-you-closer-to-what-you-love-with-new-experiences-in-windows-11/",
+      "https://learn.microsoft.com/en-us/windows/android/wsa/",
+      "https://github.com/microsoft/WSA/discussions/536"
+    ],
+    "name": "Windows Subsystem for Android",
+    "type": "app"
+  },
+  {
+    "dateClose": "2026-10-13",
+    "dateOpen": "1991-01-01",
+    "description": "Microsoft Publisher was a desktop publishing application focusing on page layout and graphic design rather than text composition and proofreading.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Publisher",
+    "links": [
+      "https://support.microsoft.com/en-us/office/microsoft-publisher-will-no-longer-be-supported-after-october-2026-ee6302a2-4bc7-4841-babf-8e9be3acbfd7"
+    ],
+    "name": "Microsoft Publisher",
+    "type": "app"
   }
 ]
