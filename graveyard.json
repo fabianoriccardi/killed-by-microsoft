@@ -1478,6 +1478,20 @@
     "type": "service"
   },
   {
+    "dateClose": "2024-12-16",
+    "dateOpen": "2015-03-01",
+    "description": "Delve is used to manage users' Microsoft 365 profile, and to discover and organize via machine learning the information that's likely to be most interesting to them across Microsoft 365.",
+    "link": "https://support.microsoft.com/en-us/office/what-is-delve-1315665a-c6af-4409-a28d-49f8916878ca",
+    "links": [
+      "https://www.pcworld.com/article/444266/microsoft-sketches-ambitious-enhancements-for-office-365.html",
+      "https://en.wikipedia.org/wiki/List_of_Microsoft_365_applications_and_services",
+      "https://en.wikipedia.org/wiki/Microsoft_Office_shared_tools#Delve",
+      "https://petri.com/microsoft-changelog/m365-changelog-retiring-delve-web/"
+    ],
+    "name": "Delve",
+    "type": "service"
+  },
+  {
     "dateClose": "2024-06-30",
     "dateOpen": "2012-04-17",
     "description": "Azure Media Services was a media streaming service that enabled customers to encode, store, and stream video and audio at scale.",
