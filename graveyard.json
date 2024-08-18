@@ -1564,5 +1564,27 @@
     ],
     "name": "Microsoft Publisher",
     "type": "app"
+  },
+  {
+    "dateClose": "2024-11-15",
+    "dateOpen": "2008-01-01",
+    "description": "TakeLessons was a platform for freelance teachers to connect with students.",
+    "link": "https://www.crunchbase.com/organization/takelessons-com",
+    "links": [
+      "https://learn.microsoft.com/en-us/takelessons/takelessons-closure-faq"
+    ],
+    "name": "TakeLessons",
+    "type": "service"
+  },
+  {
+    "dateClose": "2024-11-04",
+    "dateOpen": "2016-10-26",
+    "description": "Paint 3D was a raster graphics and 3D computer graphics application which should have been the successor of Microsoft Paint.",
+    "link": "https://en.wikipedia.org/wiki/Paint_3D",
+    "links": [
+      "https://www.theverge.com/2024/8/12/24218450/microsoft-paint-3d-deprecated-end-of-support-november"
+    ],
+    "name": "Paint 3D",
+    "type": "app"
   }
 ]
