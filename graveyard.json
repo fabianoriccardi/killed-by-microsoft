@@ -1586,5 +1586,13 @@
     ],
     "name": "Paint 3D",
     "type": "app"
+  },
+  {
+    "dateClose": "2009-04-14",
+    "dateOpen": "1997-01-01",
+    "description": "Microsoft Content Management Server was a web-based content management system to prepare and publish web-based content, originally developed by NCompass Labs Inc. and finally acquired by Microsoft in 2001.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Content_Management_Server",
+    "name": "Microsoft Content Management Server",
+    "type": "app"
   }
 ]
