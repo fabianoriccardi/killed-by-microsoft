@@ -1605,5 +1605,16 @@
     ],
     "name": "Wiki for MS Teams and Sharepoint",
     "type": "service"
+  },
+  {
+    "dateClose": "2025-03-31",
+    "dateOpen": "2017-11-15",
+    "description": "Visual Studio App Center was a set of integrated services for building, testing, releasing, and monitoring mobile and desktop apps.",
+    "link": "https://github.com/microsoft/appcenter",
+    "links": [
+      "https://visualstudio.microsoft.com/it/app-center/"
+    ],
+    "name": "Visual Studio App Center",
+    "type": "service"
   }
 ]
