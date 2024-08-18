@@ -1594,5 +1594,16 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_Content_Management_Server",
     "name": "Microsoft Content Management Server",
     "type": "app"
+  },
+  {
+    "dateClose": "2024-01-01",
+    "dateOpen": "2016-01-01",
+    "description": "Wiki for MS Teams and Sharepoint was a simple and effective Wikipedia embedded in these two products.",
+    "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-public-preview/now-in-public-preview-future-of-wiki-and-notes-in-teams/m-p/3780747",
+    "links": [
+      "https://tettra.com/article/microsoft-teams-wiki-replacements/"
+    ],
+    "name": "Wiki for MS Teams and Sharepoint",
+    "type": "service"
   }
 ]
