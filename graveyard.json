@@ -1644,5 +1644,16 @@
     ],
     "name": "Virtual Academy",
     "type": "service"
+  },
+  {
+    "dateClose": "2026-11-01",
+    "dateOpen": "2017-10-17",
+    "description": "Windows Mixed Reality was a platform which provides augmented reality and virtual reality experiences with compatible head-mounted displays.",
+    "link": "https://en.wikipedia.org/wiki/Windows_Mixed_Reality",
+    "links": [
+      "https://www.cnbc.com/2024/06/03/microsoft-confirms-mixed-reality-layoffs-will-keep-selling-hololens-2.html"
+    ],
+    "name": "Windows Mixed Reality",
+    "type": "service"
   }
 ]
