@@ -1624,5 +1624,25 @@
     "link": "https://en.wikipedia.org/wiki/Active_Server_Pages",
     "name": "Active Server Pages (ASP)",
     "type": "app"
+  },
+  {
+    "dateClose": "2018-10-02",
+    "dateOpen": "2017-10-11",
+    "description": "TruePlay was an anti-cheat feature of Windows 10 to add an extra level of protection for videogames.",
+    "link": "https://learn.microsoft.com/en-us/uwp/api/windows.gaming.ui.gamemonitor?view=winrt-17134",
+    "name": "TruePlay",
+    "type": "service"
+  },
+  {
+    "dateClose": "2019-01-31",
+    "dateOpen": "2011-01-01",
+    "description": "Virtual Academy was a free online training area for Microsoft technologies, replaced by Microsoft Learn.",
+    "link": "https://wiki.archiveteam.org/index.php/Microsoft_Virtual_Academy",
+    "links": [
+      "https://www.zdnet.com/article/microsoft-to-shut-down-technet-subscription-service/",
+      "https://x.com/MSVirtAcademy"
+    ],
+    "name": "Virtual Academy",
+    "type": "service"
   }
 ]
