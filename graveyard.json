@@ -1616,5 +1616,13 @@
     ],
     "name": "Visual Studio App Center",
     "type": "service"
+  },
+  {
+    "dateClose": "2002-01-16",
+    "dateOpen": "1996-12-01",
+    "description": "Active Server Pages (ASP) was the Microsoft's first server-side scripting language and engine for dynamic web pages, and it was the predecessor of ASP.NET.",
+    "link": "https://en.wikipedia.org/wiki/Active_Server_Pages",
+    "name": "Active Server Pages (ASP)",
+    "type": "app"
   }
 ]
