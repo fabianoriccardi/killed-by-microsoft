@@ -1455,17 +1455,6 @@
     "type": "service"
   },
   {
-    "dateClose": "2024-09-30",
-    "dateOpen": "2019-03-26",
-    "description": "Teams Live Events in Microsoft Teams was a service that enabled users to schedule, produce, broadcast and record rich, interactive streaming content for up to 10000 attendees that could join live from anywhere and across any device or watch on-demand.",
-    "link": "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/live-events-now-generally-available-in-microsoft-teams/ba-p/386460",
-    "links": [
-      "https://techcommunity.microsoft.com/t5/microsoft-teams-blog/introducing-town-halls-in-microsoft-teams-and-retiring-microsoft/ba-p/3925739"
-    ],
-    "name": "Teams Live Events",
-    "type": "service"
-  },
-  {
     "dateClose": "2024-01-31",
     "dateOpen": "2008-09-08",
     "description": "Yammer was an internal communication system for the genealogy website Geni.com launched in 2008 and then acquired by Microsoft in 2012.",
