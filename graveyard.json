@@ -1647,12 +1647,12 @@
   },
   {
     "dateClose": "2024-12-31",
-    "dateOpen": "2006-11-16",
+    "dateOpen": "2007-01-30",
     "description": "Mail was an email client developed by Microsoft and was included in the OS since Windows Vista until Windows 11.",
     "link": "https://en.wikipedia.org/wiki/Mail_(Windows)",
     "links": [
       "https://betawiki.net/wiki/Windows_Mail",
-      "https://en.wikipedia.org/wiki/Development_of_Windows_Vista#RTM",
+      "https://news.microsoft.com/2007/01/29/microsoft-launches-windows-vista-and-microsoft-office-2007-to-consumers-worldwide/",
       "https://support.microsoft.com/en-us/office/outlook-for-windows-the-future-of-mail-calendar-and-people-on-windows-11-715fc27c-e0f4-4652-9174-47faa751b199"
     ],
     "name": "Mail",
@@ -1660,15 +1660,26 @@
   },
   {
     "dateClose": "2024-12-31",
-    "dateOpen": "2006-11-16",
+    "dateOpen": "2007-01-30",
     "description": "Calender is a personal calendar application made by Microsoft included in its OS since Windows Vista to Windows 11, offering synchronization among calendar services of different providers.",
     "link": "https://en.wikipedia.org/wiki/Calendar_(Windows)",
     "links": [
       "https://betawiki.net/wiki/Windows_Calendar",
-      "https://en.wikipedia.org/wiki/Development_of_Windows_Vista#RTM",
+      "https://news.microsoft.com/2007/01/29/microsoft-launches-windows-vista-and-microsoft-office-2007-to-consumers-worldwide/",
       "https://support.microsoft.com/en-us/office/outlook-for-windows-the-future-of-mail-calendar-and-people-on-windows-11-715fc27c-e0f4-4652-9174-47faa751b199"
     ],
     "name": "Calendar",
+    "type": "app"
+  },
+  {
+    "dateClose": "2021-01-29",
+    "dateOpen": "2016-01-01",
+    "description": "People was a contact management app and address book included in Windows 8 and 10.",
+    "link": "https://en.wikipedia.org/wiki/People_(Windows)",
+    "links": [
+      "https://support.microsoft.com/en-us/windows/people-app-help-144c4373-fa32-da81-f8b4-ee87589c509c#ID0EBD=Windows_10"
+    ],
+    "name": "People",
     "type": "app"
   }
 ]
