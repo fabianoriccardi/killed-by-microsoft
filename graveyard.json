@@ -1647,13 +1647,28 @@
   },
   {
     "dateClose": "2024-12-31",
-    "dateOpen": "2006-11-30",
+    "dateOpen": "2006-11-16",
     "description": "Mail was an email client developed by Microsoft and was included in the OS since Windows Vista until Windows 11.",
     "link": "https://en.wikipedia.org/wiki/Mail_(Windows)",
     "links": [
+      "https://betawiki.net/wiki/Windows_Mail",
+      "https://en.wikipedia.org/wiki/Development_of_Windows_Vista#RTM",
       "https://support.microsoft.com/en-us/office/outlook-for-windows-the-future-of-mail-calendar-and-people-on-windows-11-715fc27c-e0f4-4652-9174-47faa751b199"
     ],
     "name": "Mail",
+    "type": "app"
+  },
+  {
+    "dateClose": "2024-12-31",
+    "dateOpen": "2006-11-16",
+    "description": "Calender is a personal calendar application made by Microsoft included in its OS since Windows Vista to Windows 11, offering synchronization among calendar services of different providers.",
+    "link": "https://en.wikipedia.org/wiki/Calendar_(Windows)",
+    "links": [
+      "https://betawiki.net/wiki/Windows_Calendar",
+      "https://en.wikipedia.org/wiki/Development_of_Windows_Vista#RTM",
+      "https://support.microsoft.com/en-us/office/outlook-for-windows-the-future-of-mail-calendar-and-people-on-windows-11-715fc27c-e0f4-4652-9174-47faa751b199"
+    ],
+    "name": "Calendar",
     "type": "app"
   }
 ]
