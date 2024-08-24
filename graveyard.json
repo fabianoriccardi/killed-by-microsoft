@@ -1681,5 +1681,17 @@
     ],
     "name": "People",
     "type": "app"
+  },
+  {
+    "dateClose": "2023-10-01",
+    "dateOpen": "2019-07-15",
+    "description": "Azure Kinect was a PC peripheral which employs the use of artificial intelligence sensors for computer vision and speech models, and it was connected to the Azure cloud.",
+    "link": "https://en.wikipedia.org/wiki/Azure_Kinect",
+    "links": [
+      "https://www.theverge.com/2023/8/21/23840327/microsoft-azure-kinect-developer-kit-discontinued",
+      "https://azure.microsoft.com/it-it/updates/azure-kinect-dk-is-now-generally-available-in-the-united-states-and-china/"
+    ],
+    "name": "Azure Kinect",
+    "type": "hardware"
   }
 ]
