@@ -316,13 +316,10 @@
     "type": "service"
   },
   {
-    "dateClose": "2015-11-15",
+    "dateClose": "2012-06-01",
     "dateOpen": "2006-11-14",
     "description": "Zune was a line of digital media products and services.",
     "link": "https://en.wikipedia.org/wiki/Zune",
-    "links": [
-      "https://www.thurrott.com/music-videos/groove-music/6033/microsoft-is-finally-retiring-zune-zune-music-pass"
-    ],
     "name": "Zune",
     "type": "service"
   },
@@ -338,6 +335,14 @@
     "type": "service"
   },
   {
+    "dateClose": "2022-01-01",
+    "dateOpen": "2015-07-06",
+    "description": "Groove Music was an audio player software application that was included with Windows 8 to Windows 11, inheriting the main features from Xbox Music and Zune Marketplace.",
+    "link": "https://en.wikipedia.org/wiki/Groove_Music",
+    "name": "Groove Music",
+    "type": "app"
+  },
+  {
     "dateClose": "2012-10-16",
     "dateOpen": "2006-01-01",
     "description": "Zune (software) was a media management software that functions as a full media player application with a library, an interface to the Zune Marketplace, and as a media streaming server.",
@@ -350,6 +355,9 @@
     "dateOpen": "2006-11-14",
     "description": "Groove Music Pass (formerly Xbox Music Pass and, before, Zune Music Pass) was a music subscription service, which allows subscribers to download an unlimited number of songs for as long as their subscription is active.",
     "link": "https://en.wikipedia.org/wiki/Groove_Music",
+    "links": [
+      "https://www.thurrott.com/music-videos/groove-music/6033/microsoft-is-finally-retiring-zune-zune-music-pass"
+    ],
     "name": "Groove Music Pass",
     "type": "service"
   },
