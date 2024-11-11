@@ -1566,9 +1566,10 @@
     "dateClose": "2024-11-15",
     "dateOpen": "2008-01-01",
     "description": "TakeLessons was a platform for freelance teachers to connect with students.",
-    "link": "https://www.crunchbase.com/organization/takelessons-com",
+    "link": "https://en.m.wikipedia.org/wiki/TakeLessons",
     "links": [
-      "https://learn.microsoft.com/en-us/takelessons/takelessons-closure-faq"
+      "https://learn.microsoft.com/en-us/takelessons/takelessons-closure-faq",
+      "https://www.crunchbase.com/organization/takelessons-com"
     ],
     "name": "TakeLessons",
     "type": "service"
