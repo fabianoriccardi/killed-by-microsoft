@@ -1702,5 +1702,13 @@
     ],
     "name": "Azure Kinect",
     "type": "hardware"
+  },
+  {
+    "dateClose": "2024-10-01",
+    "dateOpen": "1995-08-24",
+    "description": "WordPad was a word processor more advanced than the Notepad text editor by supporting rich text editing, but with a subset of the functionality of Microsoft Word.",
+    "link": "https://it.wikipedia.org/wiki/Microsoft_WordPad",
+    "name": "WordPad",
+    "type": "app"
   }
 ]
