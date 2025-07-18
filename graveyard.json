@@ -1710,5 +1710,19 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_WordPad",
     "name": "WordPad",
     "type": "app"
+  },
+  {
+    "dateClose": "2025-07-18",
+    "dateOpen": "2012-10-16",
+    "description": "Microsoft Movies & TV was a video player and digital video download service that provided a way for users to purchase and stream movies and TV shows.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Movies_%26_TV",
+    "links": [
+      "https://support.microsoft.com/en-us/windows/watch-movies-and-tv-shows-on-the-microsoft-movies-tv-app-59328422-053f-30b3-843a-f8774567a85e",
+      "https://support.xbox.com/en-US/help/games-apps/apps-help/troubleshoot-movies-and-tv-on-xbox-one",
+      "https://www.theverge.com/news/709737/microsoft-movies-tv-store-closure-xbox-windows",
+      "https://www.windowscentral.com/microsoft/microsoft-kills-movies-and-tv-storefront-on-windows-and-xbox-heres-what-will-happen-to-your-purchased-media"
+    ],
+    "name": "Microsoft Movies & TV",
+    "type": "service"
   }
 ]
