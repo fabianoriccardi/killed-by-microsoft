@@ -21,7 +21,7 @@ To add a product, gather the following information:
 - Link (`link`) - Relevant link to the source
 - Links (`links`) - Other relevant links to the source, since all the information may not be available at the same link. Actually this field is not rendered
 - Type (`type`) - The type of product (see below)
-- Slug (`slug`) - ()ptional), specify a custom slug (an identifier SEO friendly in the form "product-name"). Used only for testing
+- Slug (`slug`) - (Optional), specify a custom slug (an identifier SEO friendly in the form "product-name"). Used only for testing
 
 ### Description
 
