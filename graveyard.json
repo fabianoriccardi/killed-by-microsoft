@@ -1710,5 +1710,13 @@
     "link": "https://en.wikipedia.org/wiki/Microsoft_WordPad",
     "name": "WordPad",
     "type": "app"
+  },
+  {
+    "dateClose": "2025-10-06",
+    "dateOpen": "2022-08-04",
+    "description": "Outlook Lite was a smaller, lighter version of Outlook Mobile, it had multi account, calendar, and sms support in a relatively tiny footprint and no Copilot.",
+    "link": "https://www.windowscentral.com/software-apps/outlook-lite-is-dead-in-october",
+    "name": "Outlook Lite",
+    "type": "app"
   }
 ]
