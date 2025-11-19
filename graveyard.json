@@ -1804,5 +1804,13 @@
     "link": "https://www.reddit.com/r/Games/comments/cbcb59/microsoft_internet_games_shutting_down_july_31/",
     "name": "Microsoft Internet Games",
     "type": "service"
+  },
+  {
+    "dateClose": "2025-07-07",
+    "dateOpen": "2006-01-01",
+    "description": "Microsoft Math Solver (formerly Microsoft Mathematics and Microsoft Math) was an entry-level educational app that solved math and science problems. Until 2015, it was an app for Windows, then it was released as a service.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Math_Solver",
+    "name": "Microsoft Math Solver",
+    "type": "service"
   }
 ]
