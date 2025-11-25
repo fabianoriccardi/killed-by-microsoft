@@ -1835,5 +1835,17 @@
     ],
     "name": "Microsoft Movies & TV",
     "type": "service"
+  },
+  {
+    "dateClose": "2026-12-31",
+    "dateOpen": "2016-04-01",
+    "description": "Office Online Server was an on-premise version of browser-based Office applications hosted on companies proprietary clouds rather than Microsoft's.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_Office#Office_for_the_web",
+    "links": [
+      "https://www.windowscentral.com/microsoft/microsoft-office/no-escape-microsoft-flatlines-office-online-server-its-now-microsoft-365-cloud-or-nothing",
+      "https://www.eweek.com/enterprise-apps/microsoft-releases-first-office-online-server-update/"
+    ],
+    "name": "Office Online Server",
+    "type": "service"
   }
 ]
