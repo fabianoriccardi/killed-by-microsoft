@@ -1847,5 +1847,16 @@
     ],
     "name": "Office Online Server",
     "type": "service"
+  },
+  {
+    "dateClose": "2025-05-25",
+    "dateOpen": "2015-08-15",
+    "description": "Windows Bridge for iOS (a.k.a. WinObjC) was an open-source project allowing reuse of existing apps and libraries written in Objective-C to create Universal Windows Platform (UWP) apps that would run on many Windows devices.",
+    "link": "https://en.wikipedia.org/wiki/Universal_Windows_Platform#iOS",
+    "links": [
+      "https://github.com/microsoft/WinObjC"
+    ],
+    "name": "Windows Bridge for iOS",
+    "type": "app"
   }
 ]
