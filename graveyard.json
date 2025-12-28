@@ -1,5 +1,16 @@
 [
   {
+    "dateClose": "2014-03-14",
+    "dateOpen": "2025-11-15",
+    "description": "Microsoft Lens (formerly Microsoft Office Lens) was a OneNote companion app designed to capture, scan and enhance images of whiteboards and printed documents and store them in various formats.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_mobile_services#Microsoft_Lens",
+    "links": [
+      "https://en.wikipedia.org/?title=Office_Lens&redirect=no"
+    ],
+    "name": "Microsoft Lens",
+    "type": "app"
+  }
+  {
     "dateClose": "2015-05-01",
     "dateOpen": "2002-01-01",
     "description": "Windows Media Center was a digital video recorder and media player for Windows.",
