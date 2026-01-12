@@ -1882,5 +1882,16 @@
     ],
     "name": "Bing Maps for Enterprise",
     "type": "service"
+  },
+  {
+    "dateClose": "2024-10-21",
+    "dateOpen": "2020-09-10",
+    "description": "Surface Duo was a series of foldable dual-screen smartphones based on Android.",
+    "link": "https://en.wikipedia.org/wiki/Surface_Duo",
+    "links": [
+      "https://learn.microsoft.com/en-us/previous-versions/surface-duo/surface-lifecycle-android-devices"
+    ],
+    "name": "Surface Duo",
+    "type": "hardware"
   }
 ]
