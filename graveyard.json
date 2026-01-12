@@ -1,11 +1,12 @@
 [
   {
-    "dateClose": "2014-03-14",
-    "dateOpen": "2025-11-15",
+    "dateClose": "2026-01-09",
+    "dateOpen": "2014-03-17",
     "description": "Microsoft Lens (formerly Microsoft Office Lens) was a OneNote companion app designed to capture, scan and enhance images of whiteboards and printed documents and store them in various formats.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_mobile_services#Microsoft_Lens",
     "links": [
-      "https://en.wikipedia.org/?title=Office_Lens&redirect=no"
+      "https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/office-lens-a-onenote-scanner-for-your-pocket/",
+      "https://www.pcmag.com/news/end-of-microsoft-lens-delayed-mobile-scanner-app-now-shuts-down-in-march"
     ],
     "name": "Microsoft Lens",
     "type": "app"
