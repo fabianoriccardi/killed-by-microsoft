@@ -1,17 +1,5 @@
 [
-  {
-    "dateClose": "2026-01-09",
-    "dateOpen": "2014-03-17",
-    "description": "Microsoft Lens (formerly Microsoft Office Lens) was a OneNote companion app designed to capture, scan and enhance images of whiteboards and printed documents and store them in various formats.",
-    "link": "https://en.wikipedia.org/wiki/Microsoft_mobile_services#Microsoft_Lens",
-    "links": [
-      "https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/office-lens-a-onenote-scanner-for-your-pocket/",
-      "https://www.pcmag.com/news/end-of-microsoft-lens-delayed-mobile-scanner-app-now-shuts-down-in-march"
-    ],
-    "name": "Microsoft Lens",
-    "type": "app"
-  }
-  {
+    {
     "dateClose": "2015-05-01",
     "dateOpen": "2002-01-01",
     "description": "Windows Media Center was a digital video recorder and media player for Windows.",
@@ -1869,6 +1857,18 @@
       "https://github.com/microsoft/WinObjC"
     ],
     "name": "Windows Bridge for iOS",
+    "type": "app"
+  },
+  {
+    "dateClose": "2026-01-09",
+    "dateOpen": "2014-03-17",
+    "description": "Microsoft Lens (formerly Microsoft Office Lens) was a OneNote companion app designed to capture, scan and enhance images of whiteboards and printed documents and store them in various formats.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_mobile_services#Microsoft_Lens",
+    "links": [
+      "https://www.microsoft.com/en-us/microsoft-365/blog/2014/03/17/office-lens-a-onenote-scanner-for-your-pocket/",
+      "https://www.pcmag.com/news/end-of-microsoft-lens-delayed-mobile-scanner-app-now-shuts-down-in-march"
+    ],
+    "name": "Microsoft Lens",
     "type": "app"
   }
 ]
