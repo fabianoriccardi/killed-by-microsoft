@@ -1,5 +1,5 @@
 [
-    {
+  {
     "dateClose": "2015-05-01",
     "dateOpen": "2002-01-01",
     "description": "Windows Media Center was a digital video recorder and media player for Windows.",
@@ -1870,5 +1870,17 @@
     ],
     "name": "Microsoft Lens",
     "type": "app"
+  },
+  {
+    "dateClose": "2025-06-30",
+    "dateOpen": "2005-01-01",
+    "description": "Bing Maps for Enterprise (previously Microsoft Virtual Earth) was a geospatial mapping platform allowing developers to create applications that layer location-relevant data on top of licensed map imagery.",
+    "link": " https://en.wikipedia.org/wiki/Bing_Maps_for_Enterprise",
+    "links": [
+      "https://web.archive.org/web/20090627013745/http://www.microsoft.com/maps/",
+      "https://blogs.bing.com/maps/2025-06/Bing-Maps-for-Enterprise-Basic-Account-shutdown-June-30,2025"
+    ],
+    "name": "Bing Maps for Enterprise",
+    "type": "service"
   }
 ]
