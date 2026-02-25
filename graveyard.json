@@ -1893,5 +1893,16 @@
     ],
     "name": "Surface Duo",
     "type": "hardware"
+  },
+    {
+    "dateClose": "2026-03-27",
+    "dateOpen": "2020-05-16",
+    "description": "Polyglot Notebooks for VS Code was an extension which brought support for multi-language (Jupyter) notebooks to Visual Studio Code.",
+    "link": "https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.dotnet-interactive-vscode",
+    "links": [
+      "https://github.com/dotnet/interactive/issues/4163"
+    ],
+    "name": "Polyglot Notebooks",
+    "type": "app"
   }
 ]
