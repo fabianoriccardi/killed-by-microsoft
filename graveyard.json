@@ -519,7 +519,7 @@
   {
     "dateClose": "2013-04-08",
     "dateOpen": "2003-08-19",
-    "description": "Microsoft Office Picture Manager (formely Microsoft Picture Library) was a raster graphics editor included up to Office 2010 to organize and edit images.",
+    "description": "Microsoft Office Picture Manager (formerly Microsoft Picture Library) was a raster graphics editor included up to Office 2010 to organize and edit images.",
     "link": "https://en.wikipedia.org/wiki/Microsoft_Office_Picture_Manager",
     "name": "Microsoft Office Picture Manager",
     "type": "app"
@@ -870,7 +870,7 @@
   {
     "dateClose": "2013-02-13",
     "dateOpen": "2010-09-30",
-    "description": "Windows Live Mesh (formerly known as Windows Live FolderShare, Live Mesh, and Windows Live Sync) was a file synchronization application supporting both direct PC-to-PC and cloud-based synchronizazion and featuring Remote Desktop capability through the browser.",
+    "description": "Windows Live Mesh (formerly known as Windows Live FolderShare, Live Mesh, and Windows Live Sync) was a file synchronization application supporting both direct PC-to-PC and cloud-based synchronization and featuring Remote Desktop capability through the browser.",
     "link": "https://en.wikipedia.org/wiki/Windows_Live_Mesh",
     "name": "Windows Live Mesh",
     "type": "app"
@@ -1894,7 +1894,18 @@
     "name": "Surface Duo",
     "type": "hardware"
   },
-    {
+  {
+    "dateClose": "2026-06-30",
+    "dateOpen": "2016-03-11",
+    "description": "3D Viewer (formerly Mixed Reality Viewer and before that, View 3D) was a 3D computer graphics viewer and augmented reality application that was first included in Windows 10 1703.",
+    "link": "https://en.wikipedia.org/wiki/Microsoft_3D_Viewer",
+    "links": [
+      "https://www.xda-developers.com/microsoft-is-deprecating-a-windows-11-app-that-i-dont-remember-ever-using"
+    ],
+    "name": "3D Viewer",
+    "type": "app"
+  },
+  {
     "dateClose": "2026-03-27",
     "dateOpen": "2020-05-16",
     "description": "Polyglot Notebooks for VS Code was an extension which brought support for multi-language (Jupyter) notebooks to Visual Studio Code.",

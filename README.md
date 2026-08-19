@@ -1,3 +1,5 @@
+# Killed by Microsoft
+
 <div align="center">
   <img src="src/assets/tombstone.png" alt="tombstone" style="height: 80px; width: 80px; padding: 0 20px;">
   <h1>Killed by Microsoft</h1>
@@ -15,7 +17,7 @@
 To add a product, gather the following information:
 
 - Name of Product (`name`) — the name of the product
-- Launch Date (`dateOpen`) — it should be the date of first release or at least the "beta" or when it is made avaialbe to the customer, do not confuse with the product's announcement
+- Launch Date (`dateOpen`) — it should be the date of first release or at least the "beta" or when it is made available to the customer, do not confuse with the product's announcement
 - Discontinued Date (`dateClose`) — it should be the date when the product is "no longer available for purchase" or, for web-based services, when the service stops its normal functioning. However, if it is not clear when an application was discontinued, you can use the date of the latest significant release (i.e., a release adding new features). This case is typical for old desktop applications.
 - Description (`description`) — a brief description of the product
 - Link (`link`) — relevant link to the source
@@ -71,22 +73,28 @@ For code contributions outside of `graveyard.json`, check out the [Contributing 
 
 Install Node v14.x.x (😢):
 
+```bash
     yarn install
     node bin/graveyard
     yarn dev
+```
 
 The script in bin/graveyard.js updates graveyard.json and copy it in proper directory.
 Jest is used to test the project and in particular to test the format of graveyard.json. To run it type:
 
+```bash
     yarn jest
+```
 
 Then, to create the production version:
 
+```bash
     yarn build
+```
 
 ## Acknowledgements
 
-Thanks to Cody Odgen, author and designer of the graveyard for the products [killed by Google](https://github.com/codyogden/killedbygoogle), that provides the skeleton for *Killed by Microsoft*.
+Thanks to Cody Ogden, author and designer of the graveyard for the products [killed by Google](https://github.com/codyogden/killedbygoogle), that provides the skeleton for *Killed by Microsoft*.
 
 ## Notes
 
