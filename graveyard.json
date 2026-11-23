@@ -1959,5 +1959,17 @@
     ],
     "name": "Teams Live Chat",
     "type": "service"
+  },
+  {
+    "dateClose": "2027-06-30",
+    "dateOpen": "2017-04-19",
+    "description": "Microsoft To Do was a cross-platform task management app for creating lists, setting reminders, and organizing personal and work tasks.",
+    "link": "https://support.microsoft.com/en-us/planner/to-do-to-planner",
+    "links": [
+      "https://xboxdev.com/microsoft-to-do-endet-2027-kein-planner-fuer-privatkonten/",
+      "https://www.microsoft.com/en-us/copilot/blog/2017/04/19/introducing-microsoft-to-do-now-available-in-preview/"
+    ],
+    "name": "Microsoft To Do",
+    "type": "app"
   }
 ]
